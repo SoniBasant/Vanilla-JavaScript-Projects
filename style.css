@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /*if we add border or padding, it doesn't affect the width of it. */
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden; /*don't want scroll bar to appear.*/
+    text-align: center;
+    background: url(project-1-dom_fcc.jpg) no-repeat center center/ cover;
+}
+
+.container {
+    width: 550px;
+    height: 600px;
+}
+
+.header {
+    font-size: 1.2rem;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    color: #fff;
+    background-color: #262626;
+    padding: 5px;
+    width: 80%;
+    margin: 20px auto;
+}
+
+.main-content {
+    width: 100%;
+    height: 400px;
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius:15px;
+    padding: 50px 40px;
+    box-shadow: 0 0 10px;
+    position: relative;
+}
+
+.main-content .text-area {
+    font-size: 1.5rem;
+    line-height: 1.5;
+}
+
+.main-content .chapter {
+    font-size: 1.6rem;
+    color: red;
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+
+.button-area button {
+    background-color: #262626;
+    color: #fff;
+    font-size: 1.3rem;
+    padding: 10px 15px;
+    margin-top: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    position: absolute;
+    bottom: 20px;
+    right: 38%;
+
+}
+
+.button-area button:active {
+    background-color: lightblue;
+    color: black;
+}
