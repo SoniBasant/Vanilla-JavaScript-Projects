@@ -29,7 +29,10 @@ const verses = [{
 }, {
     verse:'"In the joyous state of Yog, called samadhi, one experience supreme boundless divine bliss, and thus situated, one never deviates from the Eternal Truth."',
     chapter: 'Chapter: 06, Verse: 21'
-}, ];
+}, {
+    verse:'"For those who see me everywhere and see all things in me, I am never lost, nor are they ever lost to me."',
+    chapter: 'Chapter: 06, Verse:30'
+},];
 
 // functionality for the button
 btn.addEventListener('click', function() {
