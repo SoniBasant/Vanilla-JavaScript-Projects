@@ -17,22 +17,25 @@ body {
     background: url(project-1-dom_fcc.jpg) no-repeat center center/ cover;
 }
 
+/* container */
 .container {
     width: 550px;
     height: 600px;
 }
 
+/* title */
 .header {
     font-size: 1.2rem;
     border: 2px solid #fff;
     border-radius: 5px;
     color: #fff;
-    background-color: #262626;
+    background-color: #2c3902a2;
     padding: 5px;
     width: 80%;
     margin: 20px auto;
 }
 
+/* display box */
 .main-content {
     width: 100%;
     height: 400px;
@@ -43,24 +46,27 @@ body {
     position: relative;
 }
 
+/* quote */
 .main-content .text-area {
     font-size: 1.5rem;
     line-height: 1.5;
 }
 
+/* about quote */
 .main-content .chapter {
     font-size: 1.6rem;
-    color: red;
+    color: rgba(193, 10, 10, 0.795);
     text-transform: uppercase;
     margin-top: 20px;
 }
 
+/* button */
 .button-area button {
-    background-color: #262626;
+    background-color: #2c3902a2;
     color: #fff;
     font-size: 1.3rem;
     padding: 10px 15px;
-    margin-top: 20px;
+    margin-top: 10px;
     border-radius: 5px;
     cursor: pointer;
     position: absolute;
@@ -70,6 +76,6 @@ body {
 }
 
 .button-area button:active {
-    background-color: lightblue;
-    color: black;
+    background-color: rgba(193, 10, 10, 0.644);
+    color: #fff;
 }
