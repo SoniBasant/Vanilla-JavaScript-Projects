@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /*if we add border or padding, it doesn't affect the width of it. */
+}
+body {
+    background: url(project-3-dom_fcc.jpg) no-repeat center center/ cover;
+    /* center-> one for X-axis, another for Y-axis */
+    font-family: 'Roboto', sans-serif;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.accordion {
+    width: 65%;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 30px;
+}
+
+.accordion-title {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.question {
+    padding: 18px 0px;
+    font-size: 20px;
+    cursor: pointer;
+    border-bottom: 1px solid #000;
+    position: relative;
+}
+
+.question::after {
+    content: '+';
+    position: absolute;
+    right: -5px;
+    cursor: pointer;
+}
+
+.answer {
+    padding-top: 15px;
+    font-size: 20px;
+    line-height: 1.5;
+    width: 100%;
+    height: 0px;
+    overflow: hidden;
+    transition: 0.5s;
+}
+
+/* javascript styling link */
+.content.active .answer {
+    height:100px;
+    margin-top: 0px;
+}
+
+.content.active .question {
+    font-size: 18px;
+    transition: 0.5s;
+}
+
+.content.active .question::after {
+    content: '-';
+    font-size: 20px;
+    transition: 0.5s;
+}
