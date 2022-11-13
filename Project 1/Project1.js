@@ -32,6 +32,9 @@ const verses = [{
 }, {
     verse:'"For those who see me everywhere and see all things in me, I am never lost, nor are they ever lost to me."',
     chapter: 'Chapter: 06, Verse:30'
+}, {
+    verse:'"O Arjuna, I regard them to be perfect yogis who see the true equality of all living beings and respond to the joys and sorrows of others as if they were their own."',
+    chapter: 'Chapter: 06, Verse: 32'
 },];
 
 // functionality for the button
