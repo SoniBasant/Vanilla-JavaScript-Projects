@@ -1,0 +1,55 @@
+body {
+    background: url(project-4-dom_fcc.jpg) no-repeat center center/ cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.container {
+    width:50%;
+    height: 180px;
+    background-color: rgba(255, 255, 255, 0.15);
+    border-radius: 30px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.4);
+}
+
+#timer {
+    width: 100%;
+    font-size: 50px;
+    text-align: center;
+    margin: 0px auto;
+    padding: 25px 0px;
+}
+
+.buttons {
+    text-align: center;
+}
+
+button {
+    margin: 0 10px;
+    padding: 0px;
+    border: none;
+}
+
+button i {
+    font-size: 1.5rem;
+    padding: 10px;
+    margin: 0px;
+    color: #fff;
+    width: 30px;
+    cursor: pointer;
+}
+
+#play {
+    background-color: green;
+}
+
+#pause {
+    background-color: orange;
+}
+
+#reset {
+    background-color: red;
+}
