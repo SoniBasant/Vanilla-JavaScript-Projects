@@ -35,6 +35,9 @@ const verses = [{
 }, {
     verse:'"O Arjuna, I regard them to be perfect yogis who see the true equality of all living beings and respond to the joys and sorrows of others as if they were their own."',
     chapter: 'Chapter: 06, Verse: 32'
+}, {
+    verse: '"The mind is very restless, turbulent, strong and obstinate, O Krishna. It appears to me that it is more difficult to control than the wind."',
+    chapter: 'Chapter: 06, Verse: 34'
 },];
 
 // functionality for the button
