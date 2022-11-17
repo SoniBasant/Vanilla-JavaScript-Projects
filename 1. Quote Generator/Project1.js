@@ -38,6 +38,9 @@ const verses = [{
 }, {
     verse: '"The mind is very restless, turbulent, strong and obstinate, O Krishna. It appears to me that it is more difficult to control than the wind."',
     chapter: 'Chapter: 06, Verse: 34'
+}, {
+    verse: '"Yog is difficult to attain for one whose mind is unbridled. However, those who have learnt to control the mind, and who strive earnestly by proper means, can attain perfection in Yog. This is my opinion."',
+    chapter: 'Chapter: 06, Verse: 36'
 },];
 
 // functionality for the button
