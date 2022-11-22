@@ -41,6 +41,12 @@ const verses = [{
 }, {
     verse: '"Yog is difficult to attain for one whose mind is unbridled. However, those who have learnt to control the mind, and who strive earnestly by proper means, can attain perfection in Yog. This is my opinion."',
     chapter: 'Chapter: 06, Verse: 36'
+}, {
+    verse: '"The unsuccessful Yogis, upon death, go to the abodes of the virtuous. After dwelling there for many ages, they are agian reborn in the earth plane, into a family of pious and prosperous people."',
+    chapter: 'Chapter: 06, Verse: 41'
+}, {
+    verse: '"The Supreme Parmatma said: O Parth, one who engages on the spiritual path does not meet with destruction either in this world or the world to come. My dear friend, one who strives for Ishwar-realization is never overcome by evil."',
+    chapter: 'Chapter: 06, Verse: 40'
 },];
 
 // functionality for the button
