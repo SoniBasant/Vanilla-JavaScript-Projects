@@ -47,7 +47,13 @@ const verses = [{
 }, {
     verse: '"The Supreme Parmatma said: O Parth, one who engages on the spiritual path does not meet with destruction either in this world or the world to come. My dear friend, one who strives for Ishwar-realization is never overcome by evil."',
     chapter: 'Chapter: 06, Verse: 40'
-},];
+}, {
+    verse: '"With the accumulated merits of many past births, when these yogis engage in sincere endeavors to make further progress, they become purified from material desires and attain perfection in this life itself."',
+    chapter: 'Chapter: 06, Verse: 45'
+}, {
+    verse: '"A yogi is superior to the tapasvi (ascetic), superior to the jnani(a person of learning) and even superior to the karmi (ritualistic performer). Therefore, O Arjuna, strive to be a yogi."',
+    chapter: 'Chapter:06, Verse: 46'
+}];
 
 // functionality for the button
 btn.addEventListener('click', function() {
