@@ -52,10 +52,13 @@ const verses = [{
     chapter: 'Chapter: 06, Verse: 45'
 }, {
     verse: '"A yogi is superior to the tapasvi (ascetic), superior to the jnani(a person of learning) and even superior to the karmi (ritualistic performer). Therefore, O Arjuna, strive to be a yogi."',
-    chapter: 'Chapter:06, Verse: 46'
+    chapter: 'Chapter: 06, Verse: 46'
 }, {
     verse: '"Amongst thousands of persons, hardly one strives for perfection; and amongst those who have achieved perfection, hardly one knows Me in truth."',
-    chapter: 'Chapter:07, Verse: 03'
+    chapter: 'Chapter: 07, Verse: 03'
+}, {
+    verse: '"There is nothing higher than Myself, O Dhananjaya. Everything rests in Me, as beeds strung on a thread."',
+    chapter: 'Chapter: 07, Verse: 07'
 }];
 
 // functionality for the button
