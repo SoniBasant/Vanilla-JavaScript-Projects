@@ -59,6 +59,9 @@ const verses = [{
 }, {
     verse: '"There is nothing higher than Myself, O Dhananjaya. Everything rests in Me, as beeds strung on a thread."',
     chapter: 'Chapter: 07, Verse: 07'
+}, {
+    verse: '"I am the taste in water, O son of Kunti, and the radiance of the sun and the moon. I am the sacred syllable OM in the vedic mantras; I am the sound in ether, and the ability in humans."',
+    chapter: 'Chapter: 07, Verse: 08'
 }];
 
 // functionality for the button
