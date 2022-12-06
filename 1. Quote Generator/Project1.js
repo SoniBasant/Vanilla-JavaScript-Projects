@@ -62,6 +62,9 @@ const verses = [{
 }, {
     verse: '"I am the taste in water, O son of Kunti, and the radiance of the sun and the moon. I am the sacred syllable OM in the vedic mantras; I am the sound in ether, and the ability in humans."',
     chapter: 'Chapter: 07, Verse: 08'
+}, {
+    verse: '"I am the pure fragrance of the Earth and the brilliance in fire. I am the life-force in all beings and the penance of the ascetics."',
+    chapter: 'Chapter: 07, Verse: 09'
 }];
 
 // functionality for the button
