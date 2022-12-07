@@ -65,6 +65,9 @@ const verses = [{
 }, {
     verse: '"I am the pure fragrance of the Earth and the brilliance in fire. I am the life-force in all beings and the penance of the ascetics."',
     chapter: 'Chapter: 07, Verse: 09'
+}, {
+    verse: '"O Arjun, know that I am the eternal seed of all beings. I am the intellect of the intelligent, and the splendor of the glorious."',
+    chapter: 'Chapter: 07, Verse: 10'
 }];
 
 // functionality for the button
