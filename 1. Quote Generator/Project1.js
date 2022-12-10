@@ -68,6 +68,9 @@ const verses = [{
 }, {
     verse: '"O Arjun, know that I am the eternal seed of all beings. I am the intellect of the intelligent, and the splendor of the glorious."',
     chapter: 'Chapter: 07, Verse: 10'
+}, {
+    verse: '"Deluded by the three modes od Maya, People in this world are unable to know Me, the imperishable and eternal."',
+    chapter: 'Chapter: 07, Verse: 13'
 }];
 
 // functionality for the button
