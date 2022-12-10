@@ -5,6 +5,13 @@
     padding: 0;
     box-sizing: border-box; /*if we add border or padding, it doesn't affect the width of it. */
 }
+
+:root {
+    --heading-chapter-active-color: rgb(244, 130, 7);
+    --header-btn-backG-color: #2c3902a2;
+    --white: #fff;
+}
+
 body {
     font-family: 'Roboto', sans-serif;
     display: flex;
@@ -17,7 +24,7 @@ body {
     background: url(project-1-dom_fcc.jpg) no-repeat center center/ cover;
 }
 
-/* container */
+/* only container */
 .container {
     width: 550px;
     height: 600px;
@@ -26,13 +33,18 @@ body {
 /* title */
 .header {
     font-size: 1.2rem;
-    border: 2px solid #fff;
-    border-radius: 5px;
-    color: #fff;
-    background-color: #2c3902a2;
+    border: 2px solid var(--white);
+    border-radius: 15px;
+    color: var(--heading-chapter-active-color);
+    background-color: var(--header-btn-backG-color);
     padding: 5px;
     width: 80%;
     margin: 20px auto;
+}
+
+.header span {
+    font-size: 1.2rem;
+    color: var(--white);
 }
 
 /* display box */
@@ -55,19 +67,20 @@ body {
 /* about quote */
 .main-content .chapter {
     font-size: 1.6rem;
-    color: rgba(193, 10, 10, 0.795);
+    color: var(--heading-chapter-active-color);
     text-transform: uppercase;
     margin-top: 20px;
 }
 
 /* button */
 .button-area button {
-    background-color: #2c3902a2;
-    color: #fff;
+    background-color: var(--header-btn-backG-color);
+    color: var(--white);
     font-size: 1.3rem;
     padding: 10px 15px;
     margin-top: 10px;
     border-radius: 5px;
+    border: transparent;
     cursor: pointer;
     position: absolute;
     bottom: 20px;
@@ -76,15 +89,16 @@ body {
 }
 
 .button-area button:active {
-    background-color: rgba(193, 10, 10, 0.644);
-    color: #fff;
+    background-color: var(--heading-chapter-active-color);
+    color: var(--white);
 }
 
 /* cite */
 cite {
     position: fixed;
-    bottom: 20px;
+    bottom: 10px;
     left: 25px;
     font-weight: bold;
     font-size: 1.1rem;
+    color: var(--white);
 }
