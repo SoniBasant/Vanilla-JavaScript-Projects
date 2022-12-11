@@ -71,6 +71,9 @@ const verses = [{
 }, {
     verse: '"Deluded by the three modes od Maya, People in this world are unable to know Me, the imperishable and eternal."',
     chapter: 'Chapter: 07, Verse: 13'
+}, {
+    verse: '"My divine energy Maya, consisting of the three modes of nature, is very difficult to overcome. But those who surrender unto Me cross over it easily."',
+    chapter: 'Chapter: 07, Verse: 14'
 }];
 
 // functionality for the button
