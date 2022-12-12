@@ -74,6 +74,9 @@ const verses = [{
 }, {
     verse: '"My divine energy Maya, consisting of the three modes of nature, is very difficult to overcome. But those who surrender unto Me cross over it easily."',
     chapter: 'Chapter: 07, Verse: 14'
+}, {
+    verse: '"Four kinds of people do not surrender unto Me- those ignorant of knowledge, those who lazily follow their lower nature though capable of knowing Me, those with deluded intellect and those with a demoniac nature."',
+    chapter: 'Chapter: 07, Verse: 15'
 }];
 
 // functionality for the button
