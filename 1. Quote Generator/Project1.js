@@ -77,6 +77,9 @@ const verses = [{
 }, {
     verse: '"Four kinds of people do not surrender unto Me- those ignorant of knowledge, those who lazily follow their lower nature though capable of knowing Me, those with deluded intellect and those with a demoniac nature."',
     chapter: 'Chapter: 07, Verse: 15'
+}, {
+    verse: '"O best amongst the Bharatas, Arjun! Four kinds of pious people engage in my devotion- the distressed, the seekers of knowledge, the seekers of worldly possessions and those who are situated in knowledge."',
+    chapter: 'Chapter: 07, Verse: 16'
 }];
 
 // functionality for the button
