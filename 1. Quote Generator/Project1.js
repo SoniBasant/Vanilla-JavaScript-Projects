@@ -80,6 +80,9 @@ const verses = [{
 }, {
     verse: '"O best amongst the Bharatas, Arjun! Four kinds of pious people engage in my devotion- the distressed, the seekers of knowledge, the seekers of worldly possessions and those who are situated in knowledge."',
     chapter: 'Chapter: 07, Verse: 16'
+}, {
+    verse: '"Amongst these, I consider them to be the highest, who worship Me with knowledge, and are steadfastly and exclusively devoted to Me. I am very dear to them and they are very dear to Me."',
+    chapter: 'Chapter: 07, Verse: 17'
 }];
 
 // functionality for the button
