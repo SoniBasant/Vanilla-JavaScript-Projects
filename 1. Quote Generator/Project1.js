@@ -83,6 +83,9 @@ const verses = [{
 }, {
     verse: '"Amongst these, I consider them to be the highest, who worship Me with knowledge, and are steadfastly and exclusively devoted to Me. I am very dear to them and they are very dear to Me."',
     chapter: 'Chapter: 07, Verse: 17'
+}, {
+    verse: '"All those who are devoted to Me are indeed noble. But those in knowledge, who are of steadfast mind, whose intellect is merged in Me, and who have made Me alone as their supreme goal, I consider as My very self."',
+    chapter: 'Chapter: 07, Verse: 18'
 }];
 
 // functionality for the button
