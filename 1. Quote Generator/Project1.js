@@ -86,6 +86,9 @@ const verses = [{
 }, {
     verse: '"All those who are devoted to Me are indeed noble. But those in knowledge, who are of steadfast mind, whose intellect is merged in Me, and who have made Me alone as their supreme goal, I consider as My very self."',
     chapter: 'Chapter: 07, Verse: 18'
+}, {
+    verse: '"After many births of spiritual practice, one who is endowed with knowledge surrenders unto Me, knowing Me to be all tha is. Such a great soul is indeed very rare."',
+    chapter: 'Chapter: 07, Verse: 19'
 }];
 
 // functionality for the button
