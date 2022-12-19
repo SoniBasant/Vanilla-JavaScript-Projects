@@ -89,6 +89,12 @@ const verses = [{
 }, {
     verse: '"After many births of spiritual practice, one who is endowed with knowledge surrenders unto Me, knowing Me to be all tha is. Such a great soul is indeed very rare."',
     chapter: 'Chapter: 07, Verse: 19'
+}, {
+    verse: '"Whatever celestial form a devotee seeks to worship with faith, I steady the faith of such a devotee in that form."',
+    chapter: 'Chapter: 07, Verse: 21'
+}, {
+    verse: '"Endowed with faith, the devotee worships a particular celestial devata and obtains the objects of desire. But in reality, I alone arrange these benefits."',
+    chapter: 'Chapter: 07, Verse: 22'
 }];
 
 // functionality for the button
