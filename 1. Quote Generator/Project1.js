@@ -95,6 +95,9 @@ const verses = [{
 }, {
     verse: '"Endowed with faith, the devotee worships a particular celestial devata and obtains the objects of desire. But in reality, I alone arrange these benefits."',
     chapter: 'Chapter: 07, Verse: 22'
+}, {
+    verse: '"The less intelligent think that I, the Supreme Paramatama, was formless earlier and have now assumed this personality. They do not understand the imperishable exalted nature of My personal form."',
+    chapter: 'Chapter: 07, Verse: 24'
 }];
 
 // functionality for the button
