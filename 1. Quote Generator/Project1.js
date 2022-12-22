@@ -98,6 +98,9 @@ const verses = [{
 }, {
     verse: '"The less intelligent think that I, the Supreme Paramatama, was formless earlier and have now assumed this personality. They do not understand the imperishable exalted nature of My personal form."',
     chapter: 'Chapter: 07, Verse: 24'
+}, {
+    verse: '"I am not manifest to everyone, being veiled by My divine Yogmaya energy. Hence, those without knowledge do not know that I am without birth and changeless."',
+    chapter: 'Chapter: 07, Verse: 25'
 }];
 
 // functionality for the button
