@@ -101,6 +101,9 @@ const verses = [{
 }, {
     verse: '"I am not manifest to everyone, being veiled by My divine Yogmaya energy. Hence, those without knowledge do not know that I am without birth and changeless."',
     chapter: 'Chapter: 07, Verse: 25'
+}, {
+    verse: '"O Arjun, I know of past, present and future, and I also know all living beings, but no one knows Me."',
+    chapter: 'Chapter: 07, Verse: 26'
 }];
 
 // functionality for the button
