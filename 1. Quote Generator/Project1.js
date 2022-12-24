@@ -104,6 +104,9 @@ const verses = [{
 }, {
     verse: '"O Arjun, I know of past, present and future, and I also know all living beings, but no one knows Me."',
     chapter: 'Chapter: 07, Verse: 26'
+}, {
+    verse: '"O descendant of Bharat, the dualities of desire and aversion arise from illusion. O conqueror of enemies, all living beings in the material realm are deluded by these."',
+    chapter: 'Chapter: 07, Verse: 27'
 }];
 
 // functionality for the button
