@@ -107,6 +107,9 @@ const verses = [{
 }, {
     verse: '"O descendant of Bharat, the dualities of desire and aversion arise from illusion. O conqueror of enemies, all living beings in the material realm are deluded by these."',
     chapter: 'Chapter: 07, Verse: 27'
+}, {
+    verse: '"But persons, whose sins have been destroyed by engaging in pious activities, become free from the illusion of dualities. Such persons worship Me with determination."',
+    chapter: 'Chapter: 07, Verse: 28'
 }];
 
 // functionality for the button
