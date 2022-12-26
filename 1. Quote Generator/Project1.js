@@ -110,6 +110,9 @@ const verses = [{
 }, {
     verse: '"But persons, whose sins have been destroyed by engaging in pious activities, become free from the illusion of dualities. Such persons worship Me with determination."',
     chapter: 'Chapter: 07, Verse: 28'
+}, {
+    verse: '"Those who take shelter in Me, striving for liberation from old-age and death, come to know the Brahman, the individual self, and the entire field of karmic action."',
+    chapter: 'Chapter: 07, Verse: 29'
 }];
 
 // functionality for the button
