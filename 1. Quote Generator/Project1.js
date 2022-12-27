@@ -113,6 +113,9 @@ const verses = [{
 }, {
     verse: '"Those who take shelter in Me, striving for liberation from old-age and death, come to know the Brahman, the individual self, and the entire field of karmic action."',
     chapter: 'Chapter: 07, Verse: 29'
+}, {
+    verse: '"Those who know Me as the governing principle of the adhibhuta (field of matter) and the adhidaiva (the celestial devatas) and as adhiyajna, such enlightened souls are in full consciousness of Me even at the time of death."',
+    chapter: 'Chapter: 07, Verse: 30'
 }];
 
 // functionality for the button
