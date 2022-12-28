@@ -21,20 +21,23 @@ let chapter = document.querySelector('.chapter'); // for changing the chapter
 
 // array of verses with person name
 const verses = [{
-    verse: '"Those who seek the state of Yog should reside in seclusion, constantly engaged in meditation with a controlled mind and body, getting rid of desires and possessions for enjoyment."',
-    chapter: 'Chapter: 06, Verse: 10'
+    verse:'"O Arjuna, I regard them to be perfect yogis who see the true equality of all living beings and respond to the joys and sorrows of others as if they were their own."',
+    chapter: 'Chapter: 06, Verse: 32'
+}, {
+    verse: '"Alas! How strange it is that we have set our mind to perform this great sin with horrifying consequences. Driven by the desire for kingly pleasures, we are intent on killing our own kinsmen."',
+    chapter: 'Chapter: 01, Verse: 45'
 }, {
     verse:'"In this world, there is nothing as purifying as divine knowledge. One who has attained purity of mind through prolonged practice of Yog, receives such knowledge within the heart, in due course of time."',
     chapter: 'Chapter: 04, Verse: 38'
+}, {
+    verse: '"Those who seek the state of Yog should reside in seclusion, constantly engaged in meditation with a controlled mind and body, getting rid of desires and possessions for enjoyment."',
+    chapter: 'Chapter: 06, Verse: 10'
 }, {
     verse:'"In the joyous state of Yog, called samadhi, one experience supreme boundless divine bliss, and thus situated, one never deviates from the Eternal Truth."',
     chapter: 'Chapter: 06, Verse: 21'
 }, {
     verse:'"For those who see me everywhere and see all things in me, I am never lost, nor are they ever lost to me."',
     chapter: 'Chapter: 06, Verse:30'
-}, {
-    verse:'"O Arjuna, I regard them to be perfect yogis who see the true equality of all living beings and respond to the joys and sorrows of others as if they were their own."',
-    chapter: 'Chapter: 06, Verse: 32'
 }, {
     verse: '"The mind is very restless, turbulent, strong and obstinate, O Krishna. It appears to me that it is more difficult to control than the wind."',
     chapter: 'Chapter: 06, Verse: 34'
