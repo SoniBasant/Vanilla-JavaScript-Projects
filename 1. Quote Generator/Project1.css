@@ -26,8 +26,8 @@ body {
 
 /* only container */
 .container {
-    width: 550px;
-    height: 600px;
+    width: 650px;
+    max-width: fit-content;
 }
 
 /* title */
@@ -38,8 +38,12 @@ body {
     color: var(--heading-chapter-active-color);
     background-color: var(--header-btn-backG-color);
     padding: 5px;
-    width: 80%;
-    margin: 20px auto;
+    width: 500px;
+    max-width: 80%;
+    position: fixed;
+    top: 60px;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 .header span {
@@ -56,6 +60,7 @@ body {
     padding: 50px 40px;
     box-shadow: 0 0 10px;
     position: relative;
+    top: 30px;
 }
 
 /* quote */
@@ -101,4 +106,34 @@ cite {
     font-weight: bold;
     font-size: 1.1rem;
     color: var(--white);
+}
+
+@media(max-width: 500px) {
+
+    .main-content {
+        width: 500px;
+    }
+
+    .header {
+        font-size: 0.9rem;
+    }
+
+    .header span {
+        font-size: 0.9rem;
+    }
+
+    .main-content .text-area{
+        font-size: 1.3rem;
+    }
+
+    .main-content .chapter {
+        font-size: 1.4rem;
+    }
+
+    .button-area button {
+        font-size: 1.1rem;
+    }
+    cite {
+        font-size: 0.9rem;
+    }
 }
