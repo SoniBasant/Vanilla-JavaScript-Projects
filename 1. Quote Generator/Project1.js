@@ -27,6 +27,9 @@ const verses = [{
     verse: '"Alas! How strange it is that we have set our mind to perform this great sin with horrifying consequences. Driven by the desire for kingly pleasures, we are intent on killing our own kinsmen."',
     chapter: 'Chapter: 01, Verse: 45'
 }, {
+    verse: '"Just as the ocean remains undisturbed by the incessant flow of waters from rivers merging into it, likewise the sage who is unmoved despite the flow of desrirable objects all around him attains peace, and not the person who strives to satisfy desires."',
+    chapter: 'Chapter: 02, Verse: 70'
+}, {
     verse:'"In this world, there is nothing as purifying as divine knowledge. One who has attained purity of mind through prolonged practice of Yog, receives such knowledge within the heart, in due course of time."',
     chapter: 'Chapter: 04, Verse: 38'
 }, {
