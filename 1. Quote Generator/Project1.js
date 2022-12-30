@@ -27,6 +27,9 @@ const verses = [{
     verse: '"Alas! How strange it is that we have set our mind to perform this great sin with horrifying consequences. Driven by the desire for kingly pleasures, we are intent on killing our own kinsmen."',
     chapter: 'Chapter: 01, Verse: 45'
 }, {
+    verse: '"Death is certain for one who has been born, and rebirth is inevitable for one who has died. Therefore, you should not lament over the inevitable."',
+    chapter: 'Chapter: 02, Verse: 27'
+}, {
     verse: '"Just as the ocean remains undisturbed by the incessant flow of waters from rivers merging into it, likewise the sage who is unmoved despite the flow of desrirable objects all around him attains peace, and not the person who strives to satisfy desires."',
     chapter: 'Chapter: 02, Verse: 70'
 }, {
