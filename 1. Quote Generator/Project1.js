@@ -30,6 +30,9 @@ const verses = [{
     verse: '"Death is certain for one who has been born, and rebirth is inevitable for one who has died. Therefore, you should not lament over the inevitable."',
     chapter: 'Chapter: 02, Verse: 27'
 }, {
+    verse: '"Besides, considering your duty as a warrior, you should not waver. Indeed, for a warrior, there is no better engagement than fighting for upholding of righteousness."',
+    chapter: 'Chapter: 02, Verse: 31'
+}, {
     verse: '"Just as the ocean remains undisturbed by the incessant flow of waters from rivers merging into it, likewise the sage who is unmoved despite the flow of desrirable objects all around him attains peace, and not the person who strives to satisfy desires."',
     chapter: 'Chapter: 02, Verse: 70'
 }, {
