@@ -33,6 +33,9 @@ const verses = [{
     verse: '"Besides, considering your duty as a warrior, you should not waver. Indeed, for a warrior, there is no better engagement than fighting for upholding of righteousness."',
     chapter: 'Chapter: 02, Verse: 31'
 }, {
+    verse: '"Just as a strong wind sweeps a boat off its chartered course on the water, even one of the senses on which the mind focuses can lead the intellect astray."',
+    chapter: 'Chapter: 02, Verse: 67'
+}, {
     verse: '"Just as the ocean remains undisturbed by the incessant flow of waters from rivers merging into it, likewise the sage who is unmoved despite the flow of desrirable objects all around him attains peace, and not the person who strives to satisfy desires."',
     chapter: 'Chapter: 02, Verse: 70'
 }, {
