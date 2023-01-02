@@ -33,6 +33,9 @@ const verses = [{
     verse: '"Besides, considering your duty as a warrior, you should not waver. Indeed, for a warrior, there is no better engagement than fighting for upholding of righteousness."',
     chapter: 'Chapter: 02, Verse: 31'
 }, {
+    verse: '"Seek refuse in divine knowledge and insight, O Arjun, and discard reward-seeking actions that are certainly inferior to works performed with the intellect established in divine knowledge. Miserly are those who seek to enjoy the fruits of their works."',
+    chapter: 'Chapter: 02, Verse: 49'
+}, {
     verse: '"Just as a strong wind sweeps a boat off its chartered course on the water, even one of the senses on which the mind focuses can lead the intellect astray."',
     chapter: 'Chapter: 02, Verse: 67'
 }, {
