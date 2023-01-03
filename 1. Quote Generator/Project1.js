@@ -36,6 +36,9 @@ const verses = [{
     verse: '"Seek refuse in divine knowledge and insight, O Arjun, and discard reward-seeking actions that are certainly inferior to works performed with the intellect established in divine knowledge. Miserly are those who seek to enjoy the fruits of their works."',
     chapter: 'Chapter: 02, Verse: 49'
 }, {
+    verse: '"Bhagwan Shri Krishna said: O Parth, when one discards all selfish desires and cravings of the senses that torment the mind, and becomes satisfied in the realization of the self, such a person is said to be transcendentally situated."',
+    chapter: 'Chapter: 02, Verse: 55'
+}, {
     verse: '"Just as a strong wind sweeps a boat off its chartered course on the water, even one of the senses on which the mind focuses can lead the intellect astray."',
     chapter: 'Chapter: 02, Verse: 67'
 }, {
