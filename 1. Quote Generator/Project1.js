@@ -39,6 +39,9 @@ const verses = [{
     verse: '"Bhagwan Shri Krishna said: O Parth, when one discards all selfish desires and cravings of the senses that torment the mind, and becomes satisfied in the realization of the self, such a person is said to be transcendentally situated."',
     chapter: 'Chapter: 02, Verse: 55'
 }, {
+    verse: '"Anger leads to clouding of judgement, which results in bewilderment of memory. When memory is bewildered, the intellect gets destroyed; and when the intellect is destroyed, one is ruined."',
+    chapter: 'Chapter: 02, Verse: 63'
+}, {
     verse: '"Just as a strong wind sweeps a boat off its chartered course on the water, even one of the senses on which the mind focuses can lead the intellect astray."',
     chapter: 'Chapter: 02, Verse: 67'
 }, {
