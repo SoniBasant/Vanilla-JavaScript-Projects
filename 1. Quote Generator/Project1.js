@@ -27,6 +27,9 @@ const verses = [{
     verse: '"Alas! How strange it is that we have set our mind to perform this great sin with horrifying consequences. Driven by the desire for kingly pleasures, we are intent on killing our own kinsmen."',
     chapter: 'Chapter: 01, Verse: 45'
 }, {
+    verse: '"The soul is unbreakable and incombustible; it can neither be dampened nor dried. It is everlasting, in all places, unalterable, immutable"',
+    chapter: 'Chapter: 02, Verse: 24'
+}, {
     verse: '"Death is certain for one who has been born, and rebirth is inevitable for one who has died. Therefore, you should not lament over the inevitable."',
     chapter: 'Chapter: 02, Verse: 27'
 }, {
