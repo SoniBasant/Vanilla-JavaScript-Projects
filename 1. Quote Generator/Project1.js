@@ -11,6 +11,7 @@ key concept for project
 2. addEventListener()
 3. Math object()
 4. innerText
+5. array
 */
 
 
@@ -21,9 +22,6 @@ let chapter = document.querySelector('.chapter'); // for changing the chapter
 
 // array of verses with person name
 const verses = [{
-    verse:'"O Arjuna, I regard them to be perfect yogis who see the true equality of all living beings and respond to the joys and sorrows of others as if they were their own."',
-    chapter: 'Chapter: 06, Verse: 32'
-}, {
     verse: '"Alas! How strange it is that we have set our mind to perform this great sin with horrifying consequences. Driven by the desire for kingly pleasures, we are intent on killing our own kinsmen."',
     chapter: 'Chapter: 01, Verse: 45'
 }, {
@@ -67,7 +65,10 @@ const verses = [{
     chapter: 'Chapter: 06, Verse: 21'
 }, {
     verse:'"For those who see me everywhere and see all things in me, I am never lost, nor are they ever lost to me."',
-    chapter: 'Chapter: 06, Verse:30'
+    chapter: 'Chapter: 06, Verse: 30'
+}, {
+    verse:'"O Arjuna, I regard them to be perfect yogis who see the true equality of all living beings and respond to the joys and sorrows of others as if they were their own."',
+    chapter: 'Chapter: 06, Verse: 32'
 }, {
     verse: '"The mind is very restless, turbulent, strong and obstinate, O Krishna. It appears to me that it is more difficult to control than the wind."',
     chapter: 'Chapter: 06, Verse: 34'
@@ -149,6 +150,9 @@ const verses = [{
 }, {
     verse: '"Those who know Me as the governing principle of the adhibhuta (field of matter) and the adhidaiva (the celestial devatas) and as adhiyajna, such enlightened souls are in full consciousness of Me even at the time of death."',
     chapter: 'Chapter: 07, Verse: 30'
+}, {
+    verse: '"Bhagwan said: The Supreme indestructible entity is called Brahman; one\'s own self is Adhyatma. Actions pertaining to the material personality of living beings and its development are called Karma or fruitive activities."',
+    chapter: 'Chapter: 08, Verse: 03'
 }];
 
 // functionality for the button
