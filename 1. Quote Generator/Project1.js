@@ -153,6 +153,9 @@ const verses = [{
 }, {
     verse: '"Bhagwan said: The Supreme indestructible entity is called Brahman; one\'s own self is Adhyatma. Actions pertaining to the material personality of living beings and its development are called Karma or fruitive activities."',
     chapter: 'Chapter: 08, Verse: 03'
+}, {
+    verse: '"O Best of the embodied souls, the physical manifestation that is constantly changing is called Adhibhuta; the univarsal form of God, which presides over the celestial gods in this creation, is called Adhidaiva; I, who dwell in the heart of every living being, am called Adhiyajna, or the Parmatma of all sacrifices."',
+    chapter: 'Chapter: 08, Verse: 04'
 }];
 
 // functionality for the button
