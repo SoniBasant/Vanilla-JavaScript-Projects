@@ -159,6 +159,9 @@ const verses = [{
 }, {
     verse: '"Those who relinquish the body while remembering Me at the moment of death will come to Me. There is certainly no doubt about this."',
     chapter: 'Chapter: 08, Verse: 05'
+}, {
+    verse: '"Whatever one remembers upon giving up the body at the time of death, O son of Kunti, one attains that state, being always absorbed in such contemplation."',
+    chapter: 'Chapter: 08, Verse: 06'
 }];
 
 // functionality for the button
