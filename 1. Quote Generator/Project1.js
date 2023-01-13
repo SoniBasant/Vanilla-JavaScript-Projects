@@ -162,6 +162,9 @@ const verses = [{
 }, {
     verse: '"Whatever one remembers upon giving up the body at the time of death, O son of Kunti, one attains that state, being always absorbed in such contemplation."',
     chapter: 'Chapter: 08, Verse: 06'
+}, {
+    verse: '"With practice, O Parth, when you constantly engage the mind in remembering Me, the Supreme Divine Personality, without deviating, you will certainly attain Me."',
+    chapter: 'Chapter: 08, Verse: 08'
 }];
 
 // functionality for the button
