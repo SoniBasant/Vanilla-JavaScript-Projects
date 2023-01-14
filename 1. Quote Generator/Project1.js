@@ -165,6 +165,9 @@ const verses = [{
 }, {
     verse: '"With practice, O Parth, when you constantly engage the mind in remembering Me, the Supreme Divine Personality, without deviating, you will certainly attain Me."',
     chapter: 'Chapter: 08, Verse: 08'
+}, {
+    verse: '"The one who always remembers this that Parmatma is Omniscient, the most Ancient One, the Controller, subtler than the subtlest, the support of all and the possessor of an inconceivable divine form; He is brighter than the Sun and beyond all darkness of ignorance."',
+    chapter: 'Chapter: 08, Verse: 09'
 }];
 
 // functionality for the button
