@@ -168,6 +168,9 @@ const verses = [{
 }, {
     verse: '"The one who always remembers this that Parmatma is Omniscient, the most Ancient One, the Controller, subtler than the subtlest, the support of all and the possessor of an inconceivable divine form; He is brighter than the Sun and beyond all darkness of ignorance."',
     chapter: 'Chapter: 08, Verse: 09'
+}, {
+    verse: '"One who at the time of death, with unmoving mind attained by the practice of Yog, fixes the prāṇ (life-airs) between the eyebrows, and steadily remembers the Divine Parmātmā with great devotion, certainly attains Him."',
+    chapter: 'Chapter: 08, Verse: 10'
 }];
 
 // functionality for the button
