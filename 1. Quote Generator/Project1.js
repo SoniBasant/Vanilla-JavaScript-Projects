@@ -171,6 +171,9 @@ const verses = [{
 }, {
     verse: '"One who at the time of death, with unmoving mind attained by the practice of Yog, fixes the prāṇ (life-airs) between the eyebrows, and steadily remembers the Divine Parmātmā with great devotion, certainly attains Him."',
     chapter: 'Chapter: 08, Verse: 10'
+}, {
+    verse: '"Restraining all the gates of the body and fixing the mind in the heart region, and then drawing the life-breath to the head, one should get established in steadfast yogic concentration."',
+    chapter: 'Chapter: 08, Verse: 12'
 }];
 
 // functionality for the button
