@@ -174,6 +174,9 @@ const verses = [{
 }, {
     verse: '"Restraining all the gates of the body and fixing the mind in the heart region, and then drawing the life-breath to the head, one should get established in steadfast yogic concentration."',
     chapter: 'Chapter: 08, Verse: 12'
+}, {
+    verse: '"One who departs from the body while remembering Me, the Supreme Personality, and chanting the syllable \'Om\' will attain the supreme goal."',
+    chapter: 'Chapter: 08, Verse: 13'
 }];
 
 // functionality for the button
