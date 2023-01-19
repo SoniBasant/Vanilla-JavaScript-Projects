@@ -177,6 +177,9 @@ const verses = [{
 }, {
     verse: '"One who departs from the body while remembering Me, the Supreme Personality, and chanting the syllable \'Om\' will attain the supreme goal."',
     chapter: 'Chapter: 08, Verse: 13'
+}, {
+    verse: '"O Parth, for those yogis who always think of Me with exclusive devotion, I am easily attainable because of their constant absorption in Me."',
+    chapter: 'Chapter: 08, Verse: 14'
 }];
 
 // functionality for the button
