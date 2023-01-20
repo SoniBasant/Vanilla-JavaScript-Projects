@@ -180,6 +180,9 @@ const verses = [{
 }, {
     verse: '"O Parth, for those yogis who always think of Me with exclusive devotion, I am easily attainable because of their constant absorption in Me."',
     chapter: 'Chapter: 08, Verse: 14'
+}, {
+    verse: '"Having attained Me, the great souls are no more subject to rebirth in this world, which is transient and full of misery, because they have attained the highest perfection."',
+    chapter: 'Chapter: 08, Verse: 15'
 }];
 
 // functionality for the button
