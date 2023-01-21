@@ -183,6 +183,9 @@ const verses = [{
 }, {
     verse: '"Having attained Me, the great souls are no more subject to rebirth in this world, which is transient and full of misery, because they have attained the highest perfection."',
     chapter: 'Chapter: 08, Verse: 15'
+}, {
+    verse: '"In all the worlds of this material creation, up to the highest abode of Brahma, you will be subject to rebirth, O Arjun. But on attaining My Abode, O son of Kunti, there is no further rebirth."',
+    chapter: 'Chapter: 08, Verse: 16'
 }];
 
 // functionality for the button
