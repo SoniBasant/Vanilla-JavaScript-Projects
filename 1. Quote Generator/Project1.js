@@ -186,6 +186,9 @@ const verses = [{
 }, {
     verse: '"In all the worlds of this material creation, up to the highest abode of Brahma, you will be subject to rebirth, O Arjun. But on attaining My Abode, O son of Kunti, there is no further rebirth."',
     chapter: 'Chapter: 08, Verse: 16'
+}, {
+    verse: '"One day of Brahma (kalp) lasts a thousand cycles of the four ages (mahā yug) and his night also extends for the same span of time. The wise who know this understand the reality about day and night."',
+    chapter: 'Chapter: 08, Verse: 17'
 }];
 
 // functionality for the button
