@@ -189,6 +189,9 @@ const verses = [{
 }, {
     verse: '"One day of Brahma (kalp) lasts a thousand cycles of the four ages (mahā yug) and his night also extends for the same span of time. The wise who know this understand the reality about day and night."',
     chapter: 'Chapter: 08, Verse: 17'
+}, {
+    verse: '"At the advent of Brahma\'s day, all living beings emanate from the unmanifest source. And at the fall of his night, all embodied beings again merge into their unmanifest source."',
+    chapter: 'Chapter: 08, Verse: 18'
 }];
 
 // functionality for the button
