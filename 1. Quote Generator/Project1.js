@@ -192,6 +192,9 @@ const verses = [{
 }, {
     verse: '"At the advent of Brahma\'s day, all living beings emanate from the unmanifest source. And at the fall of his night, all embodied beings again merge into their unmanifest source."',
     chapter: 'Chapter: 08, Verse: 18'
+}, {
+    verse: '"O Parth! Multitudes of beings repeatedly take birth with the advent of Brahma\'s day, and are reabsorbed on the arrival of the cosmic night, to manifest again automatically on the advent of the next cosmic day."',
+    chapter: 'Chapter: 08, Verse: 19'
 }];
 
 // functionality for the button
