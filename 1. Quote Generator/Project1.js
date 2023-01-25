@@ -195,6 +195,9 @@ const verses = [{
 }, {
     verse: '"O Parth! Multitudes of beings repeatedly take birth with the advent of Brahma\'s day, and are reabsorbed on the arrival of the cosmic night, to manifest again automatically on the advent of the next cosmic day."',
     chapter: 'Chapter: 08, Verse: 19'
+}, {
+    verse: '"Transcendental to this manifest and unmanifest creation, there is yet another unmanifest eternal dimension. That realm does not cease even when all others do."',
+    chapter: 'Chapter: 08, Verse: 20'
 }];
 
 // functionality for the button
