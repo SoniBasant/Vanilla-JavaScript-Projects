@@ -198,6 +198,9 @@ const verses = [{
 }, {
     verse: '"Transcendental to this manifest and unmanifest creation, there is yet another unmanifest eternal dimension. That realm does not cease even when all others do."',
     chapter: 'Chapter: 08, Verse: 20'
+}, {
+    verse: '"That unmanifest dimension is the supreme goal, and upon reaching it, one never returns to this mortal world. That is My Supreme Abode."',
+    chapter: 'Chapter: 08, Verse: 21'
 }];
 
 // functionality for the button
