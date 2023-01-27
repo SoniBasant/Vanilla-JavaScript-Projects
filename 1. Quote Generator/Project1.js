@@ -201,6 +201,9 @@ const verses = [{
 }, {
     verse: '"That unmanifest dimension is the supreme goal, and upon reaching it, one never returns to this mortal world. That is My Supreme Abode."',
     chapter: 'Chapter: 08, Verse: 21'
+}, {
+    verse: '"O Parth! The Supreme Divine Personality is greater than all that exists. Although He is all-pervading and all living beings are situated in Him, yet He can be known only through devotion."',
+    chapter: 'Chapter: 08, Verse: 22'
 }];
 
 // functionality for the button
