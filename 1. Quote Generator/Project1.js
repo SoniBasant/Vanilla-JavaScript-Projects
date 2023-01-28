@@ -6,10 +6,10 @@
 // Project 1
 
 /*
-key concept for project 
+Impoortant concepts for project 
 1. document.querySelector()
-2. addEventListener()
-3. Math object()
+2. addEventListener('click')
+3. Math.random() and Math.floor()
 4. innerText
 5. array
 */
@@ -204,6 +204,9 @@ const verses = [{
 }, {
     verse: '"O Parth! The Supreme Divine Personality is greater than all that exists. Although He is all-pervading and all living beings are situated in Him, yet He can be known only through devotion."',
     chapter: 'Chapter: 08, Verse: 22'
+}, {
+    verse: '"I shall now describe to you the different paths of passing away from this world, O best of the Bharatas, one of which leads to liberation and the other leads to rebirth."',
+    chapter: 'Chapter: 08, Verse: 23'
 }];
 
 // functionality for the button
