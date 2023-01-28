@@ -6,12 +6,11 @@
 // Project 3 FAQ
 
 /*
-key concept for project 
-1. document.getElementByClassName()
-2. addEventListener()
-3. for loop
-4. this
-5. classList.toggle()
+Important concepts for project 
+1. document.querySelectorAll
+2. addEventListener('click')
+3. forEach()
+4. classList.toggle()
 */
 
 // variable for the questions and their respective answers
