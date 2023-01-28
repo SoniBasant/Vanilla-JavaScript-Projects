@@ -1,13 +1,20 @@
+
+// 5. To do list
+
 /*
-key concepts for project
+Important concepts for project
 1. document.getElementById()
-2. addEventListener()
+2. addEventListener('click')
 3. e.target
 4. appendChild()
 5. createElement()
 6. parentElement()
-7. remove()
+7. .remove()
 8. classList.add()
+9. .value
+10. if...else
+11. style.textDecoration
+12. .matches()
 */
 
 // variables
