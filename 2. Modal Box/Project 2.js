@@ -6,12 +6,15 @@
 // Project 2 Modal
 
 /*
-key concept for project 
+Important JS and CSS concept for project 
 1. document.getElementById()
-2. addEventListener()
+2. addEventListener('click')
 3. e.target
-4. CSS styling through JacaScript
-5. CSS Animation
+4. style.display
+5. if
+6. radial-gradient
+7. transform, translate, transition
+8. @keyframes
 */
 
 // variables
