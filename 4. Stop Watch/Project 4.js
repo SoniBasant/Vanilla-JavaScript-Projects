@@ -5,14 +5,15 @@
 // Project:4 Pro Level- Stop watch
 
 /*
-key concepts for project 
+Important concepts for project 
 1. document.querySelector()
 2. document.getElementById()
-3. addEventListener()
-4. if statement
-5. toString()
+3. addEventListener('click')
+4. if...else
+5. .toString()
 6. setInterval()
 7. innerHTML
+8. window.clearInterval()
 */
 
 // variable for buttons
@@ -42,7 +43,7 @@ let timerStatus = "stopped";
 // stop watch function
 
 function stopWatch() {
-    seconds++
+    seconds++;
     // start adding seconds
     // with the completion of 60 sec, make seconds zero(0) and minute +1
 
