@@ -207,6 +207,9 @@ const verses = [{
 }, {
     verse: '"I shall now describe to you the different paths of passing away from this world, O best of the Bharatas, one of which leads to liberation and the other leads to rebirth."',
     chapter: 'Chapter: 08, Verse: 23'
+}, {
+    verse: '"Those who know the Supreme Brahman and who depart from this world, during the six months of the sun’s northern course, the bright fortnight of the moon and the bright part of the day, attain the supreme destination."',
+    chapter: 'Chapter: 08, Verse: 24'
 }];
 
 // functionality for the button
