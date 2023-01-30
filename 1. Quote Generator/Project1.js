@@ -210,6 +210,9 @@ const verses = [{
 }, {
     verse: '"Those who know the Supreme Brahman and who depart from this world, during the six months of the sun’s northern course, the bright fortnight of the moon and the bright part of the day, attain the supreme destination."',
     chapter: 'Chapter: 08, Verse: 24'
+}, {
+    verse: '"The practitioners of Vedic rituals, who pass away during the six months of the sun’s southern course, the dark fortnight of the moon, the time of smoke, the night, attain the celestial abodes. After enjoying celestial pleasures, they again return to the earth."',
+    chapter: 'Chapter: 08, Verse: 25'
 }];
 
 // functionality for the button
