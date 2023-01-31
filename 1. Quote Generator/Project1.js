@@ -55,6 +55,9 @@ const verses = [{
     verse: '"O Parth, such is the state of an enlightened soul that having attained it, one is never again deluded. Being established in this consciousness even at the hour of death, one is liberated from the cycle of life and death and reaches the Supreme Abode of God."',
     chapter: 'Chapter: 02, Verse: 72'
 }, {
+    verse: '"Therefore, O best of the Bharatas, in the very beginning bring the senses under control and slay this enemy called desire, which is the embodiment of sin and destroys knowledge and realization."',
+    chapter: 'Chapter: 03, Verse: 41'
+}, {
     verse:'"In this world, there is nothing as purifying as divine knowledge. One who has attained purity of mind through prolonged practice of Yog, receives such knowledge within the heart, in due course of time."',
     chapter: 'Chapter: 04, Verse: 38'
 }, {
