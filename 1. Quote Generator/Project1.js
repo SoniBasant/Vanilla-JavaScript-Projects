@@ -219,6 +219,9 @@ const verses = [{
 }, {
     verse: '"The practitioners of Vedic rituals, who pass away during the six months of the sun’s southern course, the dark fortnight of the moon, the time of smoke, the night, attain the celestial abodes. After enjoying celestial pleasures, they again return to the earth."',
     chapter: 'Chapter: 08, Verse: 25'
+}, {
+    verse: '"These two, bright and dark paths, always exist in this world. The way of light leads to liberation and the way of darkness leads to rebirth."',
+    chapter: 'Chapter: 08, Verse: 26'
 }];
 
 // functionality for the button
