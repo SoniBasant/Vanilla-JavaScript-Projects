@@ -58,6 +58,9 @@ const verses = [{
     verse: '"Those who are deluded by the operation of the guṇas become attached to the results of their actions. But the wise who understand these truths should not unsettle such ignorant people who know very little."',
     chapter: 'Chapter: 03, Verse: 29'
 }, {
+    verse: '"The Supreme Bhagwan Shri Krishna said: It is lust alone, which is born of contact with the mode of passion, and later transformed into anger. Know this as the sinful, all-devouring enemy in the world."',
+    chapter: 'Chapter: 03, Verse: 37'
+}, {
     verse: '"Therefore, O best of the Bharatas, in the very beginning bring the senses under control and slay this enemy called desire, which is the embodiment of sin and destroys knowledge and realization."',
     chapter: 'Chapter: 03, Verse: 41'
 }, {
