@@ -64,6 +64,9 @@ const verses = [{
     verse: '"Therefore, O best of the Bharatas, in the very beginning bring the senses under control and slay this enemy called desire, which is the embodiment of sin and destroys knowledge and realization."',
     chapter: 'Chapter: 03, Verse: 41'
 }, {
+    verse: '"The senses are superior to the gross body, and superior to the senses is the mind. Beyond the mind is the intellect, and even beyond the intellect is the soul."',
+    chapter: 'Chapter: 03, Verse: 42'
+}, {
     verse:'"In this world, there is nothing as purifying as divine knowledge. One who has attained purity of mind through prolonged practice of Yog, receives such knowledge within the heart, in due course of time."',
     chapter: 'Chapter: 04, Verse: 38'
 }, {
