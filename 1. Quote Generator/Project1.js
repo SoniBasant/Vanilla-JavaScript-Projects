@@ -70,6 +70,9 @@ const verses = [{
     verse: '"The senses are superior to the gross body, and superior to the senses is the mind. Beyond the mind is the intellect, and even beyond the intellect is the soul."',
     chapter: 'Chapter: 03, Verse: 42'
 }, {
+    verse: '"Thus knowing the soul to be superior to the material intellect, O mighty armed Arjun, subdue the lower self (senses, mind, and intellect) by the higher self (strength of the soul), and kill this formidable enemy called lust."',
+    chapter: 'Chapter: 03, Verse: 43'
+}, {
     verse:'"In this world, there is nothing as purifying as divine knowledge. One who has attained purity of mind through prolonged practice of Yog, receives such knowledge within the heart, in due course of time."',
     chapter: 'Chapter: 04, Verse: 38'
 }, {
