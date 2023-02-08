@@ -55,6 +55,9 @@ const verses = [{
     verse: '"O Parth, such is the state of an enlightened soul that having attained it, one is never again deluded. Being established in this consciousness even at the hour of death, one is liberated from the cycle of life and death and reaches the Supreme Abode of God."',
     chapter: 'Chapter: 02, Verse: 72'
 }, {
+    verse: '"By performing their prescribed duties, King Janak and others attained perfection. You too should perform your duties to set an example for the good of the world."',
+    chapter: 'Chapter: 03, Verse: 20'
+}, {
     verse: '"All activities are carried out by the three modes of material nature. But in ignorance, the soul, deluded by false identification with the body, thinks of itself as the doer."',
     chapter: 'Chapter: 03, Verse: 27'
 }, {
