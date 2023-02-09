@@ -64,6 +64,9 @@ const verses = [{
     verse: '"Those who are deluded by the operation of the guṇas become attached to the results of their actions. But the wise who understand these truths should not unsettle such ignorant people who know very little."',
     chapter: 'Chapter: 03, Verse: 29'
 }, {
+    verse: '"Performing all works as an offering unto me, constantly meditate on me as the Supreme. Become free from desire and selfishness, and with your mental grief departed, fight!"',
+    chapter: 'Chapter: 03, Verse: 30'
+}, {
     verse: '"It is far better to perform one\'s natural prescribed duty, though tinged with faults, than to perform another\'s prescribed duty, though perfectly. In fact, it is preferable to die in the discharge of one\'s duty, than to follow the path of another, which is fraught with danger."',
     chapter: 'Chapter: 03, Verse: 35'
 }, {
