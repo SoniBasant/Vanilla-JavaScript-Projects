@@ -55,6 +55,9 @@ const verses = [{
     verse: '"O Parth, such is the state of an enlightened soul that having attained it, one is never again deluded. Being established in this consciousness even at the hour of death, one is liberated from the cycle of life and death and reaches the Supreme Abode of God."',
     chapter: 'Chapter: 02, Verse: 72'
 }, {
+    verse: '"The celestial gods, being satisfied by the performance of sacrifice, will grant you all the desired necessities of life. But those who enjoy what is given to them, without making offerings in return, are verily thieves."',
+    chapter: 'Chapter: 03, Verse: 12'
+}, {
     verse: '"The spiritually-minded, who eat food that is first offered in sacrifice, are released from all kinds of sin. Others, who cook food for their own enjoyment, verily eat only sin."',
     chapter: 'Chapter: 03, Verse: 13'
 }, {
