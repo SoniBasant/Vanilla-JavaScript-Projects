@@ -58,6 +58,9 @@ const verses = [{
     verse: '"Arjun said: O Janardan, if you consider knowledge superior to action, then why do you ask me to wage this terrible war?"',
     chapter: 'Chapter: 03, Verse: 01'
 }, {
+    verse: '"The God said: O sinless one, the two paths leading to enlightenment were previously explained by Me: the path of knowledge, for those inclined toward contemplation, and the path of work for those inclined toward action."',
+    chapter: 'Chapter: 03, Verse: 03'
+}, {
     verse: '"The celestial gods, being satisfied by the performance of sacrifice, will grant you all the desired necessities of life. But those who enjoy what is given to them, without making offerings in return, are verily thieves."',
     chapter: 'Chapter: 03, Verse: 12'
 }, {
