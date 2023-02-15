@@ -258,6 +258,9 @@ const verses = [{
 }, {
     verse: '"These two, bright and dark paths, always exist in this world. The way of light leads to liberation and the way of darkness leads to rebirth."',
     chapter: 'Chapter: 08, Verse: 26'
+}, {
+    verse: '"The Supreme Bhagwan said: Because you are not envious of Me, I shall now impart to you this very confidential knowledge and wisdom, upon knowing which you will be released from the miseries of material existence."',
+    chapter: 'Chapter: 09, Verse: 01'
 }];
 
 // functionality for the button
