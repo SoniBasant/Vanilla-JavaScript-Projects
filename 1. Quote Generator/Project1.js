@@ -261,6 +261,9 @@ const verses = [{
 }, {
     verse: '"The Supreme Bhagwan said: Because you are not envious of Me, I shall now impart to you this very confidential knowledge and wisdom, upon knowing which you will be released from the miseries of material existence."',
     chapter: 'Chapter: 09, Verse: 01'
+}, {
+    verse: '"This knowledge is the king of sciences and the most profound of all secrets. It purifies those who hear it. It is directly realizable, in accordance with dharma, easy to practice, and everlasting in effect."',
+    chapter: 'Chapter: 09, Verse: 02'
 }];
 
 // functionality for the button
