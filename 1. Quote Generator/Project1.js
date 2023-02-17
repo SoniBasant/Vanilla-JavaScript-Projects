@@ -264,6 +264,9 @@ const verses = [{
 }, {
     verse: '"This knowledge is the king of sciences and the most profound of all secrets. It purifies those who hear it. It is directly realizable, in accordance with dharma, easy to practice, and everlasting in effect."',
     chapter: 'Chapter: 09, Verse: 02'
+}, {
+    verse: '"People who have no faith in this dharma are unable to attain Me, O conqueror of enemies. They repeatedly come back to this world in the cycle of birth and death."',
+    chapter: 'Chapter: 09, Verse: 03'
 }];
 
 // functionality for the button
