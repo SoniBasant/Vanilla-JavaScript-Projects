@@ -267,6 +267,9 @@ const verses = [{
 }, {
     verse: '"People who have no faith in this dharma are unable to attain Me, O conqueror of enemies. They repeatedly come back to this world in the cycle of birth and death."',
     chapter: 'Chapter: 09, Verse: 03'
+}, {
+    verse: '"This entire cosmic manifestation is pervaded by Me in My unmanifest form. All living beings dwell in Me, but I do not dwell in them."',
+    chapter: 'Chapter: 09, Verse: 04'
 }];
 
 // functionality for the button
