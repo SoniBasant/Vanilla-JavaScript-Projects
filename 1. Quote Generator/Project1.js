@@ -270,6 +270,9 @@ const verses = [{
 }, {
     verse: '"This entire cosmic manifestation is pervaded by Me in My unmanifest form. All living beings dwell in Me, but I do not dwell in them."',
     chapter: 'Chapter: 09, Verse: 04'
+}, {
+    verse: '"And yet, the living beings do not abide in Me. You behold the mystery of My divine energy! Although I am the Creator and Sustainer of all living beings, I am not influenced by them or by material nature."',
+    chapter: 'Chapter: 09, Verse: 05'
 }];
 
 // functionality for the button
