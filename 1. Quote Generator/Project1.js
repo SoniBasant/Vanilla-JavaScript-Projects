@@ -273,6 +273,9 @@ const verses = [{
 }, {
     verse: '"And yet, the living beings do not abide in Me. You behold the mystery of My divine energy! Although I am the Creator and Sustainer of all living beings, I am not influenced by them or by material nature."',
     chapter: 'Chapter: 09, Verse: 05'
+}, {
+    verse: '"You know that as the mighty wind blowing everywhere rests always in the sky, likewise all living beings always rest in Me."',
+    chapter: 'Chapter: 09, Verse: 06'
 }];
 
 // functionality for the button
