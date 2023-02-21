@@ -276,6 +276,9 @@ const verses = [{
 }, {
     verse: '"You know that as the mighty wind blowing everywhere rests always in the sky, likewise all living beings always rest in Me."',
     chapter: 'Chapter: 09, Verse: 06'
+}, {
+    verse: '"O conqueror of wealth, none of these actions bind Me. I remain like a neutral observer, ever detached from these actions."',
+    chapter: 'Chapter: 09, Verse: 09'
 }];
 
 // functionality for the button
