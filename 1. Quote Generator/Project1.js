@@ -277,6 +277,9 @@ const verses = [{
     verse: '"You know that as the mighty wind blowing everywhere rests always in the sky, likewise all living beings always rest in Me."',
     chapter: 'Chapter: 09, Verse: 06'
 }, {
+    verse: '"At the end of one kalp, all living beings merge into My primordial material energy. At the beginning of the next creation, O son of Kunti, I manifest them again."',
+    chapter: 'Chapter: 09, Verse: 07'
+}, {
     verse: '"O conqueror of wealth, none of these actions bind Me. I remain like a neutral observer, ever detached from these actions."',
     chapter: 'Chapter: 09, Verse: 09'
 }];
