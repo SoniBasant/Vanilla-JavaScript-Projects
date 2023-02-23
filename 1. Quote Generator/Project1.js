@@ -280,6 +280,9 @@ const verses = [{
     verse: '"At the end of one kalp, all living beings merge into My primordial material energy. At the beginning of the next creation, O son of Kunti, I manifest them again."',
     chapter: 'Chapter: 09, Verse: 07'
 }, {
+    verse: '"Presiding over My material energy, I generate these myriad forms again and again, in accordance with the force of their natures."',
+    chapter: 'Chapter: 09, Verse: 08'
+}, {
     verse: '"O conqueror of wealth, none of these actions bind Me. I remain like a neutral observer, ever detached from these actions."',
     chapter: 'Chapter: 09, Verse: 09'
 }];
