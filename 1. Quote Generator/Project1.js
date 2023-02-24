@@ -285,6 +285,9 @@ const verses = [{
 }, {
     verse: '"O conqueror of wealth, none of these actions bind Me. I remain like a neutral observer, ever detached from these actions."',
     chapter: 'Chapter: 09, Verse: 09'
+}, {
+    verse: '"Working under My direction, this material energy brings into being all animate and inanimate forms, O son of Kunti. For this reason, the material world undergoes the changes (of creation, maintenance, and dissolution)."',
+    chapter: 'Chapter: 09, Verse: 10'
 }];
 
 // functionality for the button
