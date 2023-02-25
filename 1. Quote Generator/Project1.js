@@ -288,6 +288,9 @@ const verses = [{
 }, {
     verse: '"Working under My direction, this material energy brings into being all animate and inanimate forms, O son of Kunti. For this reason, the material world undergoes the changes (of creation, maintenance, and dissolution)."',
     chapter: 'Chapter: 09, Verse: 10'
+}, {
+    verse: '"When I descend in My personal form deluded persons are unable to recognize Me. They do not know the divinity of My personality, as the Supreme Parmātmā of all beings."',
+    chapter: 'Chapter: 09, Verse: 11'
 }];
 
 // functionality for the button
