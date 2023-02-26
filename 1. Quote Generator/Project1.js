@@ -291,6 +291,9 @@ const verses = [{
 }, {
     verse: '"When I descend in My personal form deluded persons are unable to recognize Me. They do not know the divinity of My personality, as the Supreme Parmātmā of all beings."',
     chapter: 'Chapter: 09, Verse: 11'
+}, {
+    verse: '"Bewildered by the material energy, such persons embrace demoniac and atheistic views. In that deluded state, their hopes for welfare are in vain, their fruitive actions are wasted, and their culture of knowledge is baffled."',
+    chapter: 'Chapter: 09, Verse: 12'
 }];
 
 // functionality for the button
