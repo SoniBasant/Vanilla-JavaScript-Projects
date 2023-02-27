@@ -294,6 +294,9 @@ const verses = [{
 }, {
     verse: '"Bewildered by the material energy, such persons embrace demoniac and atheistic views. In that deluded state, their hopes for welfare are in vain, their fruitive actions are wasted, and their culture of knowledge is baffled."',
     chapter: 'Chapter: 09, Verse: 12'
+}, {
+    verse: '"But the great souls, who take shelter of My divine energy, O Parth, know Me, Bhagwan Shri Krishna, as the origin of all creation. They engage in My devotion with their minds fixed exclusively on Me."',
+    chapter: 'Chapter: 09, Verse: 13'
 }];
 
 // functionality for the button
