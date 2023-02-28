@@ -297,6 +297,9 @@ const verses = [{
 }, {
     verse: '"But the great souls, who take shelter of My divine energy, O Parth, know Me, Bhagwan Shri Krishna, as the origin of all creation. They engage in My devotion with their minds fixed exclusively on Me."',
     chapter: 'Chapter: 09, Verse: 13'
+}, {
+    verse: '"Always singing My divine glories, striving with great determination, and humbly bowing down before Me, they constantly worship Me in loving devotion."',
+    chapter: 'Chapter: 09, Verse: 14'
 }];
 
 // functionality for the button
