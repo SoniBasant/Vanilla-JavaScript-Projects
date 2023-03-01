@@ -300,6 +300,9 @@ const verses = [{
 }, {
     verse: '"Always singing My divine glories, striving with great determination, and humbly bowing down before Me, they constantly worship Me in loving devotion."',
     chapter: 'Chapter: 09, Verse: 14'
+}, {
+    verse: '"Others, engaging in the yajña of cultivating knowledge, worship Me by many methods. Some see Me as undifferentiated oneness that is non-different from them, while others see Me as separate from them. Still others worship Me in the infinite manifestations of My cosmic form."',
+    chapter: 'Chapter: 09, Verse: 15'
 }];
 
 // functionality for the button
