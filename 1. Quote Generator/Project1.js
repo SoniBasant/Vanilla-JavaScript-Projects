@@ -303,6 +303,9 @@ const verses = [{
 }, {
     verse: '"Others, engaging in the yajña of cultivating knowledge, worship Me by many methods. Some see Me as undifferentiated oneness that is non-different from them, while others see Me as separate from them. Still others worship Me in the infinite manifestations of My cosmic form."',
     chapter: 'Chapter: 09, Verse: 15'
+}, {
+    verse: '"It is I who am the Vedic ritual, I am the sacrifice, and I am the oblation offered to the ancestors. I am the medicinal herb and I am the Vedic mantra. I am the clarified butter, I am the fire and the act of offering."',
+    chapter: 'Chapter: 09, Verse: 16'
 }];
 
 // functionality for the button
