@@ -306,6 +306,9 @@ const verses = [{
 }, {
     verse: '"It is I who am the Vedic ritual, I am the sacrifice, and I am the oblation offered to the ancestors. I am the medicinal herb and I am the Vedic mantra. I am the clarified butter, I am the fire and the act of offering."',
     chapter: 'Chapter: 09, Verse: 16'
+}, {
+    verse: '"Of this universe, I am the Father; I am also the Mother, the Sustainer, and the Grandsire. I am the purifier, the goal of knowledge, the sacred syllable Om. I am the Ṛig Veda, Sāma Veda, and the Yajur Veda."',
+    chapter: 'Chapter: 09, Verse: 17'
 }];
 
 // functionality for the button
