@@ -309,6 +309,9 @@ const verses = [{
 }, {
     verse: '"Of this universe, I am the Father; I am also the Mother, the Sustainer, and the Grandsire. I am the purifier, the goal of knowledge, the sacred syllable Om. I am the Ṛig Veda, Sāma Veda, and the Yajur Veda."',
     chapter: 'Chapter: 09, Verse: 17'
+}, {
+    verse: '"I am the Supreme Goal of all living beings, and I am also their Sustainer, Master, Witness, Abode, Shelter, and Friend. I am the Origin, End, and Resting Place of creation; I am the Repository and Eternal Seed."',
+    chapter: 'Chapter: 09, Verse: 18'
 }];
 
 // functionality for the button
