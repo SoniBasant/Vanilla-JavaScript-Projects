@@ -312,6 +312,9 @@ const verses = [{
 }, {
     verse: '"I am the Supreme Goal of all living beings, and I am also their Sustainer, Master, Witness, Abode, Shelter, and Friend. I am the Origin, End, and Resting Place of creation; I am the Repository and Eternal Seed."',
     chapter: 'Chapter: 09, Verse: 18'
+}, {
+    verse: '"I radiate heat as the sun, and I withhold, as well as send forth rain. I am immortality as well as death personified, O Arjun. I am the spirit as well as matter."',
+    chapter: 'Chapter: 09, Verse: 19'
 }];
 
 // functionality for the button
