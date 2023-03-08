@@ -315,6 +315,9 @@ const verses = [{
 }, {
     verse: '"I radiate heat as the sun, and I withhold, as well as send forth rain. I am immortality as well as death personified, O Arjun. I am the spirit as well as matter."',
     chapter: 'Chapter: 09, Verse: 19'
+}, {
+    verse: '"Those well-versed in the three Vedas, after worshipping me through sacrifices, and drinking nectar and purified of sin, they pray for attainment of heaven. Having obtained merits, they enjoy the divine pleasures of the devtās in heaven, the abode of the king of heaven, Indra."',
+    chapter: 'Chapter: 09, Verse: 20'
 }];
 
 // functionality for the button
