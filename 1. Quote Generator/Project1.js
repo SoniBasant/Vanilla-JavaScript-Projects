@@ -318,6 +318,9 @@ const verses = [{
 }, {
     verse: '"Those well-versed in the three Vedas, after worshipping me through sacrifices, and drinking nectar and purified of sin, they pray for attainment of heaven. Having obtained merits, they enjoy the divine pleasures of the devtās in heaven, the abode of the king of heaven, Indra."',
     chapter: 'Chapter: 09, Verse: 20'
+}, {
+    verse: '"When they have enjoyed the vast pleasures of heaven, the stock of their merits being exhausted, they return to the earthly plane. Thus, those who follow the Vedic rituals, desiring objects of enjoyment, repeatedly come and go in this world."',
+    chapter: 'Chapter: 09, Verse: 21'
 }];
 
 // functionality for the button
