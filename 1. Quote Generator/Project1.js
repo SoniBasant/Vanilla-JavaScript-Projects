@@ -321,6 +321,9 @@ const verses = [{
 }, {
     verse: '"When they have enjoyed the vast pleasures of heaven, the stock of their merits being exhausted, they return to the earthly plane. Thus, those who follow the Vedic rituals, desiring objects of enjoyment, repeatedly come and go in this world."',
     chapter: 'Chapter: 09, Verse: 21'
+}, {
+    verse: '"There are those who always think of Me and engage in exclusive devotion to Me. To them, whose minds are always absorbed in Me, I provide what they lack and preserve what they already possess."',
+    chapter: 'Chapter: 09, Verse: 22'
 }];
 
 // functionality for the button
