@@ -324,6 +324,9 @@ const verses = [{
 }, {
     verse: '"There are those who always think of Me and engage in exclusive devotion to Me. To them, whose minds are always absorbed in Me, I provide what they lack and preserve what they already possess."',
     chapter: 'Chapter: 09, Verse: 22'
+}, {
+    verse: '"O son of Kunti, even those devotees who faithfully worship other gods also worship Me. But they do so by the wrong method."',
+    chapter: 'Chapter: 09, Verse: 23'
 }];
 
 // functionality for the button
