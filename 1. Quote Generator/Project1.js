@@ -327,6 +327,9 @@ const verses = [{
 }, {
     verse: '"O son of Kunti, even those devotees who faithfully worship other gods also worship Me. But they do so by the wrong method."',
     chapter: 'Chapter: 09, Verse: 23'
+}, {
+    verse: '"I am the enjoyer and the only Lord of all sacrifices. But those who fail to realize My divine nature must be reborn."',
+    chapter: 'Chapter: 09, Verse: 24'
 }];
 
 // functionality for the button
