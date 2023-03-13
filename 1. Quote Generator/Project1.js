@@ -330,6 +330,9 @@ const verses = [{
 }, {
     verse: '"I am the enjoyer and the only Lord of all sacrifices. But those who fail to realize My divine nature must be reborn."',
     chapter: 'Chapter: 09, Verse: 24'
+}, {
+    verse: '"Worshippers of the celestial gods take birth amongst the celestial gods, worshippers of the ancestors go to the ancestors, worshippers of ghosts take birth amongst such beings, and My devotees come to Me alone."',
+    chapter: 'Chapter: 09, Verse: 25'
 }];
 
 // functionality for the button
