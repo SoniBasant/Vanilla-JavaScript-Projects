@@ -333,6 +333,9 @@ const verses = [{
 }, {
     verse: '"Worshippers of the celestial gods take birth amongst the celestial gods, worshippers of the ancestors go to the ancestors, worshippers of ghosts take birth amongst such beings, and My devotees come to Me alone."',
     chapter: 'Chapter: 09, Verse: 25'
+}, {
+    verse: '"If one offers to Me with devotion a leaf, a flower, a fruit, or even water, I delightfully partake of that item offered with love by My devotee in pure consciousness."',
+    chapter: 'Chapter: 09, Verse: 26'
 }];
 
 // functionality for the button
