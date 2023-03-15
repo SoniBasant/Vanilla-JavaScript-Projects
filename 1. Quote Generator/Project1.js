@@ -336,6 +336,9 @@ const verses = [{
 }, {
     verse: '"If one offers to Me with devotion a leaf, a flower, a fruit, or even water, I delightfully partake of that item offered with love by My devotee in pure consciousness."',
     chapter: 'Chapter: 09, Verse: 26'
+}, {
+    verse: '"Whatever you do, whatever you eat, whatever you offer as oblation to the sacred fire, whatever you bestow as a gift and whatever austerities you perform, O son of Kunti, do them as an offering to Me."',
+    chapter: 'Chapter: 09, Verse: 27'
 }];
 
 // functionality for the button
