@@ -12,10 +12,10 @@ Live links to see my projects -
 
 | No. | Project Name | Live Link |
 |-----:|---------------|-------|
-| 1. | Quote Generator | [Link](https://sonibasant.github.io/DOM-Project-FCC-Youtube/1.%20Quote%20Generator/Project1.html) |
-| 2. | Modal Box | [Link](https://sonibasant.github.io/DOM-Project-FCC-Youtube/2.%20Modal%20Box/Project%202.html) |
-| 3. | Accordion FAQ | [Link](https://sonibasant.github.io/DOM-Project-FCC-Youtube/3.%20Accordion%20FAQ/Project%203.html) |
-| 4. | Stop Watch | [Link](https://sonibasant.github.io/DOM-Project-FCC-Youtube/4.%20Stop%20Watch/Project%204.html) |
-| 5. | To Do List | [Link](https://sonibasant.github.io/DOM-Project-FCC-Youtube/5.%20To%20do%20list/Project%205.html) |
+| 1. | Quote Generator | [Link](https://sonibasant.github.io/DOM-Project-FCC/1.%20Quote%20Generator/Project1.html) |
+| 2. | Modal Box | [Link](https://sonibasant.github.io/DOM-Project-FCC/2.%20Modal%20Box/Project%202.html) |
+| 3. | Accordion FAQ | [Link](https://sonibasant.github.io/DOM-Project-FCC/3.%20Accordion%20FAQ/Project%203.html) |
+| 4. | Stop Watch | [Link](https://sonibasant.github.io/DOM-Project-FCC/4.%20Stop%20Watch/Project%204.html) |
+| 5. | To Do List | [Link](https://sonibasant.github.io/DOM-Project-FCC/5.%20To%20do%20list/Project%205.html) |
 
 Projects are in continous improvement. But you can give star nonetheless. :slightly_smiling_face:
