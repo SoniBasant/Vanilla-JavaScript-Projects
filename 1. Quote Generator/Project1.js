@@ -339,6 +339,9 @@ const verses = [{
 }, {
     verse: '"Whatever you do, whatever you eat, whatever you offer as oblation to the sacred fire, whatever you bestow as a gift and whatever austerities you perform, O son of Kunti, do them as an offering to Me."',
     chapter: 'Chapter: 09, Verse: 27'
+}, {
+    verse: '"By dedicating all your works to Me, you will be freed from the bondage of good and bad results. With your mind attached to Me through renunciation, you will be liberated and will reach Me."',
+    chapter: 'Chapter: 09, Verse: 28'
 }];
 
 // functionality for the button
