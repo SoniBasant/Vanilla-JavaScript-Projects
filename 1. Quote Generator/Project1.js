@@ -342,6 +342,9 @@ const verses = [{
 }, {
     verse: '"By dedicating all your works to Me, you will be freed from the bondage of good and bad results. With your mind attached to Me through renunciation, you will be liberated and will reach Me."',
     chapter: 'Chapter: 09, Verse: 28'
+}, {
+    verse: '"I am equally disposed to all living beings; I am neither inimical nor partial to anyone. But the devotees who worship Me with love reside in Me and I reside in them."',
+    chapter: 'Chapter: 09, Verse: 29'
 }];
 
 // functionality for the button
