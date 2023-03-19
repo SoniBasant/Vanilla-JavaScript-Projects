@@ -345,6 +345,9 @@ const verses = [{
 }, {
     verse: '"I am equally disposed to all living beings; I am neither inimical nor partial to anyone. But the devotees who worship Me with love reside in Me and I reside in them."',
     chapter: 'Chapter: 09, Verse: 29'
+}, {
+    verse: '"Even if the vilest sinners worship Me with exclusive devotion, they are to be considered righteous because they have made the proper resolve."',
+    chapter: 'Chapter: 09, Verse: 30'
 }];
 
 // functionality for the button
