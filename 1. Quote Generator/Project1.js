@@ -348,6 +348,9 @@ const verses = [{
 }, {
     verse: '"Even if the vilest sinners worship Me with exclusive devotion, they are to be considered righteous because they have made the proper resolve."',
     chapter: 'Chapter: 09, Verse: 30'
+}, {
+    verse: '"Quickly they become virtuous, and attain lasting peace. O son of Kunti, declare it boldly that no devotee of Mine is ever lost."',
+    chapter: 'Chapter: 09, Verse: 31'
 }];
 
 // functionality for the button
