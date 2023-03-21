@@ -351,6 +351,9 @@ const verses = [{
 }, {
     verse: '"Quickly they become virtuous, and attain lasting peace. O son of Kunti, declare it boldly that no devotee of Mine is ever lost."',
     chapter: 'Chapter: 09, Verse: 31'
+}, {
+    verse: '"O Parth! All those who take refuge in Me, whatever their birth, race, gender, or caste, even those whom society scorns, will attain the supreme destination."',
+    chapter: 'Chapter: 09, Verse: 32'
 }];
 
 // functionality for the button
