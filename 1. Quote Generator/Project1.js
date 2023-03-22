@@ -354,6 +354,9 @@ const verses = [{
 }, {
     verse: '"O Parth! All those who take refuge in Me, whatever their birth, race, gender, or caste, even those whom society scorns, will attain the supreme destination."',
     chapter: 'Chapter: 09, Verse: 32'
+}, {
+    verse: '"What then to speak about kings and sages with meritorious deeds? Therefore, having come to this transient and joyless world, you engage in devotion unto Me."',
+    chapter: 'Chapter: 09, Verse: 33'
 }];
 
 // functionality for the button
