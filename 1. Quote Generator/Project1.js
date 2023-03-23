@@ -357,6 +357,9 @@ const verses = [{
 }, {
     verse: '"What then to speak about kings and sages with meritorious deeds? Therefore, having come to this transient and joyless world, you engage in devotion unto Me."',
     chapter: 'Chapter: 09, Verse: 33'
+}, {
+    verse: '"Always think of Me, be devoted to Me, worship Me and offer obeisance to Me. Having dedicated your mind and body to Me, you will certainly come to Me."',
+    chapter: 'Chapter: 09, Verse: 34'
 }];
 
 // functionality for the button
