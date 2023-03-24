@@ -360,6 +360,9 @@ const verses = [{
 }, {
     verse: '"Always think of Me, be devoted to Me, worship Me and offer obeisance to Me. Having dedicated your mind and body to Me, you will certainly come to Me."',
     chapter: 'Chapter: 09, Verse: 34'
+}, {
+    verse: '"The Supreme Bhagwan said: Listen again to My divine teachings, O mighty armed one. Desiring your welfare because you are My beloved friend, I shall reveal them to you."',
+    chapter: 'Chapter: 10, Verse: 01'
 }];
 
 // functionality for the button
