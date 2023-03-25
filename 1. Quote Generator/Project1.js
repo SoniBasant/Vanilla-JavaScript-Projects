@@ -363,6 +363,9 @@ const verses = [{
 }, {
     verse: '"The Supreme Bhagwan said: Listen again to My divine teachings, O mighty armed one. Desiring your welfare because you are My beloved friend, I shall reveal them to you."',
     chapter: 'Chapter: 10, Verse: 01'
+}, {
+    verse: '"Neither celestial gods nor the great sages know of My origin. I am the source from which the gods and great seers come."',
+    chapter: 'Chapter: 10, Verse: 02'
 }];
 
 // functionality for the button
