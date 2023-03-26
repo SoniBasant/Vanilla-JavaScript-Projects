@@ -366,6 +366,9 @@ const verses = [{
 }, {
     verse: '"Neither celestial gods nor the great sages know of My origin. I am the source from which the gods and great seers come."',
     chapter: 'Chapter: 10, Verse: 02'
+}, {
+    verse: '"Those who know Me as unborn and beginningless, and as the Supreme Parmātmā of the universe, they among mortals are free from illusion and released from all evils."',
+    chapter: 'Chapter: 10, Verse: 03'
 }];
 
 // functionality for the button
