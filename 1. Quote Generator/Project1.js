@@ -369,6 +369,9 @@ const verses = [{
 }, {
     verse: '"Those who know Me as unborn and beginningless, and as the Supreme Parmātmā of the universe, they among mortals are free from illusion and released from all evils."',
     chapter: 'Chapter: 10, Verse: 03'
+}, {
+    verse: '"From Me alone arise the varieties of qualities in humans such as intellect, knowledge, clarity of thought, forgiveness, truthfulness, control over senses and mind, joy, sorrow, birth, death, fear, courage, non-violence, equanimity, contentment, austerity, charity, fame, infamy."',
+    chapter: 'Chapter: 10, Verse: 04-05'
 }];
 
 // functionality for the button
