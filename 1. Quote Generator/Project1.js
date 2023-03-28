@@ -372,6 +372,9 @@ const verses = [{
 }, {
     verse: '"From Me alone arise the varieties of qualities in humans such as intellect, knowledge, clarity of thought, forgiveness, truthfulness, control over senses and mind, joy, sorrow, birth, death, fear, courage, non-violence, equanimity, contentment, austerity, charity, fame, infamy."',
     chapter: 'Chapter: 10, Verse: 04-05'
+}, {
+    verse: '"The seven great Sages, the four great Saints before them, and the fourteen Manus, are all born from My mind. From them, all the people in the world have descended."',
+    chapter: 'Chapter: 10, Verse: 06'
 }];
 
 // functionality for the button
