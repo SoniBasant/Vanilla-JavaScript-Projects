@@ -375,6 +375,9 @@ const verses = [{
 }, {
     verse: '"The seven great Sages, the four great Saints before them, and the fourteen Manus, are all born from My mind. From them, all the people in the world have descended."',
     chapter: 'Chapter: 10, Verse: 06'
+}, {
+    verse: '"Those who know in truth My glories and divine powers become united with Me through unwavering Bhakti Yog. Of this there is no doubt."',
+    chapter: 'Chapter: 10, Verse: 07'
 }];
 
 // functionality for the button
