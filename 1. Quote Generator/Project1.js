@@ -378,6 +378,9 @@ const verses = [{
 }, {
     verse: '"Those who know in truth My glories and divine powers become united with Me through unwavering Bhakti Yog. Of this there is no doubt."',
     chapter: 'Chapter: 10, Verse: 07'
+}, {
+    verse: '"I am the origin of all creation. Everything proceeds from Me. The wise who know this perfectly worship Me with great faith and devotion."',
+    chapter: 'Chapter: 10, Verse: 08'
 }];
 
 // functionality for the button
