@@ -381,6 +381,9 @@ const verses = [{
 }, {
     verse: '"I am the origin of all creation. Everything proceeds from Me. The wise who know this perfectly worship Me with great faith and devotion."',
     chapter: 'Chapter: 10, Verse: 08'
+}, {
+    verse: '"With their minds fixed on Me and their lives surrendered to Me, My devotees remain ever content in Me. They derive great satisfaction and bliss in enlightening one another about Me and in conversing about My glories."',
+    chapter: 'Chapter: 10, Verse: 09'
 }];
 
 // functionality for the button
