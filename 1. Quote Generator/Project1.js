@@ -384,6 +384,9 @@ const verses = [{
 }, {
     verse: '"With their minds fixed on Me and their lives surrendered to Me, My devotees remain ever content in Me. They derive great satisfaction and bliss in enlightening one another about Me and in conversing about My glories."',
     chapter: 'Chapter: 10, Verse: 09'
+}, {
+    verse: '"To those whose minds are always united with Me in loving devotion, I give the divine knowledge by which they can attain Me."',
+    chapter: 'Chapter: 10, Verse: 10'
 }];
 
 // functionality for the button
