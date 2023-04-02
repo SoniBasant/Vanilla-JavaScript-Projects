@@ -387,6 +387,9 @@ const verses = [{
 }, {
     verse: '"To those whose minds are always united with Me in loving devotion, I give the divine knowledge by which they can attain Me."',
     chapter: 'Chapter: 10, Verse: 10'
+}, {
+    verse: '"Out of compassion for them, I, who dwell within their hearts, destroy the darkness born of ignorance, with the luminous lamp of knowledge."',
+    chapter: 'Chapter: 10, Verse: 11'
 }];
 
 // functionality for the button
