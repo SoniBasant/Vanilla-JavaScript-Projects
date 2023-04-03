@@ -390,6 +390,9 @@ const verses = [{
 }, {
     verse: '"Out of compassion for them, I, who dwell within their hearts, destroy the darkness born of ignorance, with the luminous lamp of knowledge."',
     chapter: 'Chapter: 10, Verse: 11'
+}, {
+    verse: '"Arjun said: You are the Supreme Divine Personality, the Supreme Abode, the Supreme Purifier, the Eternal God, the Primal Being, the Unborn, and the Greatest. The great sages, like Narad, Asit, Deval, and Vyas, proclaimed this, and now You are declaring it to me Yourself."',
+    chapter: 'Chapter: 10, Verse: 12-13'
 }];
 
 // functionality for the button
