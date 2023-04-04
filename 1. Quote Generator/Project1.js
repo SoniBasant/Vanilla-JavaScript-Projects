@@ -393,6 +393,9 @@ const verses = [{
 }, {
     verse: '"Arjun said: You are the Supreme Divine Personality, the Supreme Abode, the Supreme Purifier, the Eternal God, the Primal Being, the Unborn, and the Greatest. The great sages, like Narad, Asit, Deval, and Vyas, proclaimed this, and now You are declaring it to me Yourself."',
     chapter: 'Chapter: 10, Verse: 12-13'
+}, {
+    verse: '"O Keshav, I totally accept everything You have told me as the Truth. O Supreme Parmātmā, neither gods nor the demons can understand Your true personality."',
+    chapter: 'Chapter: 10, Verse: 14'
 }];
 
 // functionality for the button
