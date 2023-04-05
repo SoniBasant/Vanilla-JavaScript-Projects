@@ -396,6 +396,9 @@ const verses = [{
 }, {
     verse: '"O Keshav, I totally accept everything You have told me as the Truth. O Supreme Parmātmā, neither gods nor the demons can understand Your true personality."',
     chapter: 'Chapter: 10, Verse: 14'
+}, {
+    verse: '"Indeed, You alone know Yourself by Your inconceivable energy, O Supreme Personality! The Creator and Lord of all beings, the God of gods, and the Lord of the universe!"',
+    chapter: 'Chapter: 10, Verse: 15'
 }];
 
 // functionality for the button
