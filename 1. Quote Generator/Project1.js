@@ -399,6 +399,9 @@ const verses = [{
 }, {
     verse: '"Indeed, You alone know Yourself by Your inconceivable energy, O Supreme Personality! The Creator and Lord of all beings, the God of gods, and the Lord of the universe!"',
     chapter: 'Chapter: 10, Verse: 15'
+}, {
+    verse: '"Please describe to me Your divine opulences, by which You pervade all the worlds and reside in them."',
+    chapter: 'Chapter: 10, Verse: 16'
 }];
 
 // functionality for the button
