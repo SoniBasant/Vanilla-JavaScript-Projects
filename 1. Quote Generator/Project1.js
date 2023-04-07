@@ -402,6 +402,9 @@ const verses = [{
 }, {
     verse: '"Please describe to me Your divine opulences, by which You pervade all the worlds and reside in them."',
     chapter: 'Chapter: 10, Verse: 16'
+}, {
+    verse: '"O Supreme Master of Yog, how may I know You and think of You? And while meditating, in what forms can I think of You, O Supreme Divine Personality?"',
+    chapter: 'Chapter: 10, Verse: 17'
 }];
 
 // functionality for the button
