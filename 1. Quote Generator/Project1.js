@@ -405,6 +405,9 @@ const verses = [{
 }, {
     verse: '"O Supreme Master of Yog, how may I know You and think of You? And while meditating, in what forms can I think of You, O Supreme Divine Personality?"',
     chapter: 'Chapter: 10, Verse: 17'
+}, {
+    verse: '"Tell me again in detail Your divine glories and manifestations, O Janardan. I can never tire of hearing your nectar."',
+    chapter: 'Chapter: 10, Verse: 18'
 }];
 
 // functionality for the button
