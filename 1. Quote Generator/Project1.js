@@ -1,23 +1,7 @@
 
-// DOM Manipulation
-
-//Beginner Level
-
-// Project 1
-
-/*
-Impoortant concepts for project 
-1. document.querySelector()
-2. addEventListener('click')
-3. Math.random() and Math.floor()
-4. innerText
-5. array
-*/
-
-
 // variables
-let btn = document.querySelector('#new-verse'); // button to change
-let verse = document.querySelector('.verse'); // for different verse
+let next = document.querySelector('.next'); // link to change
+let verse = document.querySelector('.verse'); // for changing the verse
 let chapter = document.querySelector('.chapter'); // for changing the chapter
 
 // array of verses with person name
@@ -411,7 +395,7 @@ const verses = [{
 }];
 
 // functionality for the button
-btn.addEventListener('click', function() {
+next.addEventListener('click', function() {
     //random to select any random verse and its speaker
     // use floor to make it an integer with the multiplicaton of verses length
     let random = Math.floor(Math.random() * verses.length);
