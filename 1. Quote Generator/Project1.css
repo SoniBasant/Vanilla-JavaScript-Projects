@@ -1,3 +1,5 @@
+
+/* General style */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
 * { 
@@ -7,9 +9,10 @@
 }
 
 :root {
-    --heading-chapter-active-color: rgb(244, 130, 7);
-    --header-btn-backG-color: #2c3902a2;
-    --white: #fff;
+    --color-theme: rgb(244, 130, 7);
+    --color-theme-bg: #2c3902a2;
+    --white: #e3e3e3;
+    --color-font: #3d3d3d;
 }
 
 body {
@@ -19,83 +22,81 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
-    overflow: hidden; /*don't want scroll bar to appear.*/
+    overflow-x: hidden; /*don't want scroll bar to appear.*/
     text-align: center;
-    background: url(project-1-dom_fcc.jpg) no-repeat center center/ cover;
+    background: url(Images/project-1-dom_fcc.jpg) no-repeat center center/ cover;
 }
 
-/* only container */
+/* container */
 .container {
     width: 650px;
     max-width: fit-content;
 }
 
-/* title */
+/* title and subtitle */
 .header {
-    font-size: 1.2rem;
     border: 2px solid var(--white);
     border-radius: 15px;
-    color: var(--heading-chapter-active-color);
-    background-color: var(--header-btn-backG-color);
-    padding: 5px;
+    background-color: var(--color-theme-bg);
+    padding: max(5px, 1vw) 0;
     width: 500px;
-    max-width: 80%;
+    max-width: 60%;
     position: fixed;
-    top: 60px;
+    top: max(50px, 5vw);
+    top: 13%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
 
-.header span {
-    font-size: 1.2rem;
+h1 {
+    font-size: clamp(1.5vw, 1.3rem, 2rem);
+    color: var(--color-theme);
+}
+
+h1 span {
+    font-size: clamp(0.9vw, 1.2rem, 1.5rem);
     color: var(--white);
 }
 
 /* display box */
 .main-content {
+    color: var(--color-font);
     width: 100%;
-    height: 400px;
+    height: max(400px, 70%);
+    height: auto;
     background-color: rgba(255, 255, 255, 0.7);
     border-radius:15px;
-    padding: 50px 40px;
+    padding: 2rem 1rem;
     box-shadow: 0 0 10px;
     position: relative;
-    top: 30px;
+    top: 3rem;
 }
 
 /* quote */
 .main-content .text-area {
-    font-size: 1.5rem;
+    font-size: max(1vw, 1.2rem);
     line-height: 1.5;
 }
 
 /* about quote */
+.info {
+    margin-top: 1vw;
+}
+
 .main-content .chapter {
-    font-size: 1.6rem;
-    color: var(--heading-chapter-active-color);
+    font-size: clamp(1rem, 1.2rem, 5vw);
+    color: var(--color-font);
     text-transform: uppercase;
-    margin-top: 20px;
 }
 
-/* button */
-.button-area button {
-    background-color: var(--header-btn-backG-color);
-    color: var(--white);
+/* JS button */
+.next {
+    color: var(--color-theme);
     font-size: 1.3rem;
-    padding: 10px 15px;
-    margin-top: 10px;
+    padding-left: 25px;
     border-radius: 5px;
-    border: transparent;
     cursor: pointer;
-    position: absolute;
-    bottom: 20px;
-    right: 38%;
 
-}
-
-.button-area button:active {
-    background-color: var(--heading-chapter-active-color);
-    color: var(--white);
 }
 
 /* cite */
@@ -103,37 +104,20 @@ cite {
     position: fixed;
     bottom: 10px;
     left: 25px;
-    font-weight: bold;
-    font-size: 1.1rem;
+    font-weight: thin;
+    font-size: 1rem;
     color: var(--white);
 }
 
 @media(max-width: 500px) {
-
-    .main-content {
-        width: 500px;
+    .info {
+        display: flex;
+        flex-direction: column;
     }
-
-    .header {
-        font-size: 0.9rem;
-    }
-
-    .header span {
-        font-size: 0.9rem;
-    }
-
-    .main-content .text-area{
-        font-size: 1.3rem;
-    }
-
-    .main-content .chapter {
-        font-size: 1.4rem;
-    }
-
-    .button-area button {
-        font-size: 1.1rem;
+    .next {
+        padding-top: 0.4rem;
     }
     cite {
-        font-size: 0.9rem;
+        display: none;
     }
 }
