@@ -1,10 +1,17 @@
+
+/* General style */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+:root {
+    --color-theme: #1417e4;
+}
 
 * { 
     margin: 0;
     padding: 0;
     box-sizing: border-box; /*if we add border or padding, it doesn't affect the width of it. */
 }
+
 body {
     font-family: 'Roboto', sans-serif;
     height: 100vh;
@@ -20,8 +27,9 @@ body {
     /* radial-gradient(at (position of center from the left) (position of center from the top), color) */
 }
 
-.hero-image {
-    background-image: url(project-2-dom_fcc.jpg);
+/* main */
+.main-image {
+    background-image: url(Images/Modal-BG.jpg);
     height: 100%;
     max-width: 100%;
     background-position: center;
@@ -36,12 +44,12 @@ body {
     left: 10%;
     height: 60px;
     width: 230px;
-    background: transparent;
-    color: rgb(254, 67, 5);
-    font-size: 1.3rem;
-    border: 2px solid rgb(254, 67, 5);
+    background: rgba(255,0,0,0.2);
+    color: var(--color-theme);
+    font-size: 0.6rem;
+    border: none;
     border-radius: 10px;
-    box-shadow: 0 0 3px;
+    box-shadow: 0 0 3px var(--color-theme);
     padding: 5px;
     /* for hover */
     transition: 0.5s;
@@ -51,7 +59,22 @@ body {
 #open-btn:hover {
     background-color: white;
     font-style: italic;
+    border: 1px solid var(--color-theme);
     /* font-weight: bold; */
+}
+
+/* to remove model while clicking on window */
+#modal-container {
+    display: none;
+    /* at initial, there will be no modal container at display */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    background-color: rgba(0,0,0,0);
+    /* change BG color while modal-container is on the screen */
 }
 
 #modal {
@@ -64,14 +87,13 @@ body {
     height: 100px;
     padding: 10px 20px;
     border-radius: 5px;
-    box-shadow: 0px 1px 3px #000;
+    box-shadow: 0px 1px 3px #5364fb;
     font-size: 1.5rem;
     font-weight: bold;
-    color: rgb(254, 67, 5);
+    color: var(--color-theme);
     display: flex;
     justify-content: space-between;
     align-items: center;
-
     animation: animatemodal;
     animation-duration: .4s;
 }
@@ -79,24 +101,16 @@ body {
 #close-btn {
     font-size: 2rem;
     cursor: pointer;
+    color: transparent;
+    transition: all 0.8s;
 }
 
+#modal:hover #close-btn {
+    color: var(--color-theme);
+}
 #close-btn:active {
     font-size: 3rem;
     color: rgb(39, 17, 17);
-}
-
-#modal-container {
-    display: none;
-    /* at initial, there will be no modal container at display */
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: 1;
-    background-color: rgba(0,0,0,0);
-    /* change BG color while modal-container is on the screen */
 }
 
 /* modal animation for smothly moving down */
