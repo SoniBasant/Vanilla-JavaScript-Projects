@@ -1,21 +1,103 @@
-# DOM-Project-FCC-Youtube
+# Vanilla JavaScript Projects
 
-This project series is based on the freecodecamp youtube video for DOM (Document Object Model). The educator explain about the DOM's functionality and its concept at first half of the video and make project at the second half.
+JavaScript is a web language. It is better to learn it by making projects.
 
-I added my content and style along with that present in the video. So, **THIS IS NOT A COPY PASTE WORK**. I learned a lot from these projects. Good for the people who wants to learn DOM from the very basic.
+And it is important to make projects on Vanilla JS before moving on to any framework.
 
-This series has five projects. Video is in FCC account dated 07 JUL 2022 titled "JavaScript DOM Manipulation- Full Course for Beginners". Here is the link of youtube video -
+You must have listen this-
 
-https://www.youtube.com/watch?v=5fb2aPlgoys
+**"Learn JavaScript before React."**
 
-Live links to see my projects -
+## Table of contents
 
-| No. | Project Name | Live Link |
-|-----:|---------------|-------|
-| 1. | Quote Generator | [Link](https://sonibasant.github.io/DOM-Project-FCC/1.%20Quote%20Generator/Project1.html) |
-| 2. | Modal Box | [Link](https://sonibasant.github.io/DOM-Project-FCC/2.%20Modal%20Box/Project%202.html) |
-| 3. | Accordion FAQ | [Link](https://sonibasant.github.io/DOM-Project-FCC/3.%20Accordion%20FAQ/Project%203.html) |
-| 4. | Stop Watch | [Link](https://sonibasant.github.io/DOM-Project-FCC/4.%20Stop%20Watch/Project%204.html) |
-| 5. | To Do List | [Link](https://sonibasant.github.io/DOM-Project-FCC/5.%20To%20do%20list/Project%205.html) |
+- [Overview](#overview)
+  - [Screenshots](#screenshots)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
 
-Projects are in continous improvement. But you can give star nonetheless. :slightly_smiling_face:
+## Overview
+
+To practice different concepts, I am making different projects. Depending on the concepts, some projects are big, some projects are small but it's all about the concepts.
+
+### Screenshots
+
+Here are some of the screenshots of projects
+
+![Quote Generator](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A0.%20Quote%20Generator/Images/QG-Snap.png)
+
+![Modal Box](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A1.%20Modal%20Box/Images/Modal-Snap-2.png)
+
+![Accordion FAQ](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A2.%20Accordion%20FAQ/Images/Accordion-Snap-2.png)
+
+![Stop Watch](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A3.%20Stop%20Watch/Images/Stop-Watch-Snap-2.png)
+
+![To Do List](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A4.%20To%20do%20list/Images/To-Do-List-Snap-2.png)
+
+### Links
+
+| No. | Project Name    | Live Link                                                                                              |
+| --: | --------------- | ------------------------------------------------------------------------------------------------------ |
+| A0. | Quote Generator | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A0.%20Quote%20Generator/quoteGen.html) |
+| A1. | Modal Box       | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A1.%20Modal%20Box/modalBox.html)       |
+| A2. | Accordion FAQ   | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A2.%20Accordion%20FAQ/accordion.html)  |
+| A3. | Stop Watch      | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A3.%20Stop%20Watch/stopWatch.html)     |
+| A4. | To Do List      | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A4.%20To%20do%20list/toDoList.html)    |
+
+## My process
+
+I make projects to learn new concepts. Sometimes I learn new concepts to make new projects. 👨‍💻
+
+Also to brush up my learnings.
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Vanilla JavaScript
+- Desktop-first workflow
+- Responsive on Mobile Screen
+
+### What I learned
+
+Many different concepts-
+
+- Basics
+- Ternary Operator
+- Array Methods
+- DOM manipulation (Not part of JS, still important)
+- Arrow Function
+- Template Literals
+
+### Continued development
+
+Projects based on these concepts-
+
+- Asynce/Await,
+- Higher order function,
+- Error Handling,
+- Map and filter
+- destructuring
+- spread and REST operator
+- promise, fetch API
+- ES-6 classes
+- Import/Export
+
+### Useful resources
+
+- [freecodecamp](https://www.freecodecamp.org/) - All the problems I pracice. Helped me a lot. 🙌
+- [w3schools](https://www.w3schools.com) - This helped me throughout my journey. Still doing. 🙂
+- [YouTube video on DOM Manipulation](https://www.youtube.com/watch?v=5fb2aPlgoys)
+
+## Author
+
+Basant Soni 👨‍💻
+
+- GitHub - [@SoniBasant](https://github.com/SoniBasant)
+- Frontend Mentor - [@SoniBasant](https://www.frontendmentor.io/profile/SoniBasant)
+- CodePen - [@SoniBasant](https://codepen.io/sonibasant)
+- Hashnode - [@SoniBasant](https://sonibasant.hashnode.dev/)
