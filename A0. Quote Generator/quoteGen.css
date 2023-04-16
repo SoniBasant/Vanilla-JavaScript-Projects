@@ -24,7 +24,7 @@ body {
     height: 100vh;
     overflow-x: hidden; /*don't want scroll bar to appear.*/
     text-align: center;
-    background: url(Images/project-1-dom_fcc.jpg) no-repeat center center/ cover;
+    background: url(Images/QG-BG.jpg) no-repeat center center/ cover;
 }
 
 /* container */
