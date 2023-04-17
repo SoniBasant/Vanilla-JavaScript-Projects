@@ -1,33 +1,45 @@
+
+/* General style */
 body {
-    background: url(project-4-dom_fcc.jpg) no-repeat center center/ cover;
+    background: url(Images/Stop-Watch-BG.jpg) no-repeat center center/ cover;
     height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
     overflow: hidden;
+    margin: 0;
+    padding: 0;
 }
 
-/* container  */
+/* container */
 .container {
-    width:50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+    width:350px;
+    max-width:50%;
     height: 180px;
-    background-color: rgba(255, 255, 255, 0.15);
+    background-image: linear-gradient(to bottom, #f3f3f3, rgba(255, 255, 255, 0.1));
     border-radius: 30px;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.4);
 }
 
-/* clock timer  */
+/* clock timer */
 #timer {
     width: 100%;
-    font-size: 50px;
+    font-size: clamp(5vw, 30px, 10vw);
     text-align: center;
     margin: 0px auto;
-    padding: 25px 0px;
+    color: #3d3d3d;
 }
 
 /* button */
 .buttons {
-    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
 }
 
 button {
@@ -35,6 +47,8 @@ button {
     padding: 0px;
     border: none;
     border-radius: 10px;
+    outline: none;
+    background-color: rgba(255, 255, 255, 0);
 }
 
 /* icon inside buttons */
@@ -48,15 +62,33 @@ button i {
     border-radius: 10px;
 }
 
+button:active {
+    outline: none;
+}
+
 /* colours of buttons */
 #play {
-    background-color: green;
+    background-color: rgba(0, 128, 0, 0.865);
 }
 
 #pause {
-    background-color: orange;
+    background-color: rgba(237, 158, 10, 0.893);
 }
 
 #reset {
-    background-color: red;
+    background-color: rgba(255, 0, 0, 0.902);
+}
+
+/* media query */
+@media(max-width:350px) {
+    .buttons {
+        flex-direction: column;
+        justify-content: space-evenly;
+        gap: 0.7rem;
+    }
+
+    button i {
+        font-size: 5vw;
+        padding: 2.5vw 4vw;
+    }
 }
