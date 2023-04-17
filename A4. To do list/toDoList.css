@@ -1,19 +1,40 @@
+
+/* General style */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+:root {
+    --color-white: #fff;
+    --color-orange: rgb(252, 179, 44);
+    --color-red: rgb(253, 37, 37);
+    --color-green: rgb(39, 130, 39);
+    --color-gray-light: #f3f3f3;
+    --color-gray-dark: #6d6d6d;
+    --color-font: #3d3d3d;
+}
+
 body {
     height: 100vh;
-    background: url(project-5-dom_fcc.jpg) no-repeat center center/ cover;
-    
+    font-family: "Roboto", sans-serif;
+    background: url(Images/To-Do-List-BG.jpg) no-repeat center center/ cover;
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    color: var(--color-font);
 }
 
+/* main */
 #add-task-container {
     width: 350px;
     padding: 20px 10px;
-    background: #fff;
+    background: var(--color-gray-light);
     border-radius: 20px;
-    box-shadow: 1px 1px 3px;
+    box-shadow: 1px 1px 3px var(--color-gray-dark);
     margin-bottom: 20px;
+    border: none;
     display: flex;
 }
 
@@ -23,6 +44,7 @@ input {
     border-radius: 10px;
     font-size: 1.2rem;
     padding: 5px;
+    border: 1.5px solid var(--color-gray-dark);
 }
 
 #add-task {
@@ -30,21 +52,21 @@ input {
     transition: 0.3s;
     font-size: 1.2rem;
     padding: 5px;
-    background-color: #fff;
-    color: green;
-    border: 2px solid green;
+    background-color: var(--color-white);
+    color: var(--color-green);
+    border: 1.5px solid var(--color-green);
     border-radius: 10px;
 }
 
 #add-task:hover {
-    background-color: green;
-    color: #fff;
+    background-color: var(--color-green);
+    color: var(--color-white);
 }
 
 /* styling for task which get addaed to to-do list, present in js*/
 .task {
     width: 100%;
-    background-color: #fff;
+    background-color: var(--color-white);
     border-radius: 10px;
     box-shadow: 0 0 3px;
     padding: 5px;
@@ -64,30 +86,29 @@ input {
 .task button {
     flex: 1;
     border-radius: 10px;
-    background-color: #fff;
+    background-color: var(--color-white);
     cursor: pointer;
 }
 
 .task .checkTask {
-    color: orange;
+    color: var(--color-orange);
     margin-right: 5px;
-    border: 2px solid orange;
+    border: 1.5px solid var(--color-orange);
     font-size: 1.5rem;
 }
 
 .task .checkTask:hover {
-    background-color: orange;
-    color: #fff;
+    background-color: var(--color-orange);
+    color: var(--color-white);
 }
 
 .task .deleteTask {
-    color: red;
-    border: 2px solid red;
+    color: var(--color-red);
+    border: 1.5px solid var(--color-red);
     font-size: 1.5rem;
 }
 
 .task .deleteTask:hover {
-    background-color: red;
-    color: #fff;
+    background-color: var(--color-red);
+    color: var(--color-white);
 }
-
