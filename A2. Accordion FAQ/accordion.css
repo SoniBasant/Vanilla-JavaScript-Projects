@@ -1,37 +1,50 @@
+
+/* General style */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+:root {
+    --color-gray: #cecece;
+    --color-font: #3d3d3d;
+}
 
 * { 
     margin: 0;
     padding: 0;
     box-sizing: border-box; /*if we add border or padding, it doesn't affect the width of it. */
 }
+
 body {
-    background: url(project-3-dom_fcc.jpg) no-repeat center center/ cover;
+    background: url(Images/Accordion-BG.jpg) no-repeat center center/ cover;
     /* center-> one for X-axis, another for Y-axis */
     font-family: 'Roboto', sans-serif;
     height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
+    color: var(--color-font);
+    overflow-x: hidden;
 }
 
+/* main */
 .accordion {
     width: 65%;
-    background-color: #fff;
+    background-color: #f3f3f3;
     padding: 30px;
     border-radius: 30px;
 }
 
 .accordion-title {
-    margin-bottom: 30px;
+    font-size: clamp(1rem, 1.7rem, 1.9rem);
+    padding-bottom: 1vw;
+    border-bottom: 1px solid var(--color-gray);
     text-align: center;
 }
 
 .question {
     padding: 18px 0px;
-    font-size: 20px;
+    font-size: clamp(10px, 15px, 20px);
     cursor: pointer;
-    border-bottom: 1px solid #000;
+    border-bottom: 1px solid var(--color-gray);
     position: relative;
 }
 
@@ -44,7 +57,7 @@ body {
 
 .answer {
     padding-top: 15px;
-    font-size: 20px;
+    font-size: clamp(18px, 20px, 2%);
     line-height: 1.5;
     width: 100%;
     height: 0px;
@@ -59,7 +72,7 @@ body {
 }
 
 .content.active .question {
-    font-size: 18px;
+    font-size: clamp(12px, 18px, 22px);
     transition: 0.5s;
 }
 
