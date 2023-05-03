@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="author" content="Basant Soni">
+    <meta name="keywords" content="Frontend, pure css, html, HTML5, Basant Soni, sonibasant, 
+    javascript, Vanilla javascript Projects, calculator, basic calculator, string method, iphone calculator /">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>iPhone Calculator</title>
+    <link rel="stylesheet" href="calculator.css">
+    <script defer src="calculator.js"></script>
+    
+</head>
+<body>
+    <main id="main">
+        <form id="cal-container">
+            <div class="display-area">
+                <input 
+                    type="text" 
+                    name="dislpay" 
+                    id="output"
+                    class="output-display"
+                    disabled
+                    value="0"
+                    />
+            </div>
+    
+            <div class="btn-lines">
+                <div class="btn-group">
+    
+                    <button 
+                        data-type="clear"
+                        type="reset"
+                        value="clear"
+                        class="btn btn-grey"
+                    >AC
+                    </button>
+        
+                    <button 
+                        data-type="operator"
+                        value="invert"
+                        class="btn btn-grey"
+                    >+/-
+                    </button>
+        
+                    <button 
+                        data-type="operator"
+                        value="%"
+                        class="btn btn-grey"
+                    >%
+                    </button>
+        
+                    <button 
+                        data-type="operator"
+                        value="/"
+                        class="btn btn-orange"
+                    >&divide;
+                    </button>
+        
+                </div>
+                
+                <div class="btn-group">
+                    
+                    <button
+                        data-type="operand"
+                        value="7"
+                        class="btn btn-dark-grey"
+                    >7
+                    </button>
+    
+                    <button
+                        data-type="operand"
+                        value="8"
+                        class="btn btn-dark-grey"
+                    >8
+                    </button>
+    
+                    <button
+                        data-type="operand"
+                        value="9"
+                        class="btn btn-dark-grey"
+                    >9
+                    </button>
+    
+                    <button
+                        data-type="operator"
+                        value="*"
+                        class="btn btn-orange"
+                    >&times;
+                    </button>
+                </div>
+    
+    
+                <div class="btn-group">
+                    
+                    <button
+                        data-type="operand"
+                        value="4"
+                        class="btn btn-dark-grey"
+                    >4
+                    </button>
+    
+                    <button
+                        data-type="operand"
+                        value="5"
+                        class="btn btn-dark-grey"
+                    >5
+                    </button>
+    
+                    <button
+                        data-type="operand"
+                        value="6"
+                        class="btn btn-dark-grey"
+                    >6
+                    </button>
+    
+                    <button
+                        data-type="operator"
+                        value="-"
+                        class="btn btn-orange"
+                    >&minus;
+                    </button>
+                </div>
+    
+    
+                <div class="btn-group">
+                    
+                    <button
+                        data-type="operand"
+                        value="1"
+                        class="btn btn-dark-grey"
+                    >1
+                    </button>
+    
+                    <button
+                        data-type="operand"
+                        value="2"
+                        class="btn btn-dark-grey"
+                    >2
+                    </button>
+    
+                    <button
+                        data-type="operand"
+                        value="3"
+                        class="btn btn-dark-grey"
+                    >3
+                    </button>
+    
+                    <button
+                        data-type="operator"
+                        value="+"
+                        class="btn btn-orange"
+                    >&plus;
+                    </button>
+                </div>
+    
+    
+                <div class="btn-group">
+                    
+                    <button
+                        data-type="operand"
+                        value="0"
+                        class="btn btn-dark-grey"
+                    >0
+                    </button>
+    
+                    <button
+                        data-type="operator"
+                        value="."
+                        class="btn btn-dark-grey"
+                    >&period;
+                    </button>
+    
+                    <button
+                        data-type="result"
+                        value="="
+                        class="btn btn-orange"
+                    >&equals;
+                    </button>
+                    
+                </div>
+    
+    
+            </div>
+           
+        </form>
+    </main>
+    
+</body>
+</html>
+
