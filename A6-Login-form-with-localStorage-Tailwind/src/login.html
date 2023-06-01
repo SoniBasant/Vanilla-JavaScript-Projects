@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <link rel="stylesheet" href="../dist/style.css">
+    <script defer src="../JS/login.js"></script>
+</head>
+<body class="flex items-center justify-center h-screen bg-gradient-to-br from-backGReg1 to-backGReg2 bg-no-repeat">
+
+    <main class="space-y-5">
+        <h1 class="text-textDark font-bold text-2xl">Login Here</h1>
+        <form class="space-y-4" action="login.html">
+            <!-- <form> -->
+              
+            <article class="flex flex-col space-y-1 text-textDark">
+                <label for="username">Username <span class="text-red-500 font-bold">*</span></label>
+                <input class="text-textLight rounded-md p-1 pl-2 focus:outline-none" type="text" name="username" id="user-input" placeholder="Enter username or email" required>
+            </article>
+    
+            <article class="flex flex-col space-y-1 text-textDark">
+                <label for="password">Password <span class="text-red-500 font-bold">*</span></label>
+                <input class="text-textLight rounded-md p-1 pl-2 focus:outline-none" type="password" name="password" id="password-input" placeholder="Enter your password" required>
+            </article>
+    
+            <input class="border border-textLight rounded-md px-6 py-1 bg-backGReg1 text-textDark cursor-pointer" type="submit" value="Submit" id="submit">
+        </form>
+
+
+    </main>
+    
+</body>
+</html>
