@@ -48,7 +48,8 @@ Here are some of the screenshots of projects
 | A3. | Stop Watch      | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A3.%20Stop%20Watch/stopWatch.html)     |
 | A4. | To Do List      | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A4.%20To%20do%20list/toDoList.html)    |
 | A5. | Basic Calculator      | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A5.%20Basic%20Calculator/calculator.html)    |
-| A6. | Login Form with LocalStorage and Tailwind      | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A6-Login-form-with-localStorage-Tailwind/src/index.html)    |
+| A6. | Login Form using LocalStorage and Tailwind      | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A6-Login-form-with-localStorage-Tailwind/src/index.html)    |
+| A7. | Login Form using SessionStorage, Validation and Tailwind      | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A7-Login-Form-SessionStorage-Validation-Tailwind/Reg.html)    |
 
 ## My process
 
