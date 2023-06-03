@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    overflow: hidden;
+}
+
+.form-input.valid input {
+    border-color: rgb(29, 232, 29);
+}
+
+.form-input.error input{
+    border-color: rgb(232, 29, 29);
+}

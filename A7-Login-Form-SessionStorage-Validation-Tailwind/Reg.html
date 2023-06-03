@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Registration Page: Session Storage + Tailwind</title>
+  <link href="dist/style.css" rel="stylesheet">
+  <script defer src="./JS/Reg.js"></script>
+</head>
+<body class="flex items-center justify-center h-screen bg-gradient-to-br from-backGReg1 to-backGReg2 bg-no-repeat">
+  
+  <main class="space-y-5 bg-whiteSheet p-8 rounded-lg">
+    <h1 class="text-textDark font-bold text-2xl">Create Account</h1>
+    <form id="form" class="space-y-4" action="login.html">
+        <!-- <form> -->
+          
+        <article class="form-input flex flex-col space-y-1 text-textDark">
+            <label for="username">Username</label>
+            <input class="text-textLight rounded-md p-1 pl-2 border-2 focus:border-gray-400 focus:outline-none" type="text" name="username" id="user-input" placeholder="Set username">
+            <small class="hidden text-red-600">Error Message</small>
+        </article>
+
+        <article class="form-input flex flex-col space-y-1 text-textDark">
+            <label for="email">Email</label>
+            <input class="text-textLight rounded-md p-1 pl-2 border-2 focus:border-gray-400 focus:outline-none" type="email" name="email" id="email-input" placeholder="Enter valid email">
+            <small class="hidden text-red-600">Error Message</small>
+        </article>
+
+        <article class="form-input flex flex-col space-y-1 text-textDark">
+            <label for="password1">Password</label>
+            <input class="text-textLight rounded-md p-1 pl-2 border-2 focus:border-gray-400 focus:outline-none" type="password" name="password1" id="password-input" placeholder="Type password">
+            <small class="hidden text-red-600">Error Message</small>
+        </article>
+
+        <article class="form-input flex flex-col space-y-1 text-textDark">
+            <label for="password2">Password Check</label>
+            <input class="text-textLight rounded-md p-1 pl-2 border-2 focus:border-gray-400 focus:outline-none" type="password" name="password2" id="password-check" placeholder="Type password again">
+            <small class="hidden text-red-600">Error Message</small>
+        </article>
+
+        <input class="border border-textLight rounded-md px-6 py-1 bg-backGReg1 text-textDark cursor-pointer" type="submit" value="Submit" id="submit">
+    </form>
+  </main>
+</body>
+</html>
