@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CRUD Operations</title>
+    <link rel="stylesheet" href="crudForm.css">
+    <script defer src="crudForm.js"></script>
+</head>
+<body>
+    <main>
+        <fieldset>
+            <legend>
+                <h1>Form</h1>
+            </legend>
+            <form id="form">
+    
+                <input type="text" name="name" id="name" placeholder="Name">
+                <br>
+                <br>
+    
+                <input type="text" name="job" id="job" placeholder="Job Title">
+                <br>
+                <br>
+    
+                <input type="number" name="Experience" id="exp" placeholder="Experience">
+                <br>
+                <br>
+    
+                <input type="button" value="Submit" id="btn">
+                <input type="reset" value="Reset">
+            </form>
+        </fieldset>
+
+        <br>
+        <section id="msg"></section> <br>
+
+        <fieldset>
+            <legend>
+                <h2>Data from Local Storage</h2>
+            </legend>
+
+            <table id="table">
+                <tr>
+                    <th>Name</th>
+                    <th>Job Title</th>
+                    <th>Experience</th>
+                    <th>Action</th>
+                </tr>
+            </table>
+
+        </fieldset>
+    </main>
+    
+</body>
+</html>

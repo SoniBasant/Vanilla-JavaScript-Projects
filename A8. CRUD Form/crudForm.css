@@ -1,0 +1,52 @@
+
+:root {
+    --color-primary: #08418b;
+    /* --color-primary: #08418b; */
+    --color-second: #7d7d7d;
+    /* --color-second: #64c3ed; */
+    --color-third: #c6eff9;
+    --color-fourth: #3f7392;
+    --color-bg: #f7f7f7;
+}
+
+body {
+    background-color: var(--color-bg);
+    color: var(--color-primary);
+}
+
+input {
+    font-size: 1rem;
+    color: #6d6d6d;
+    outline-color: var(--color-second);
+}
+
+#form [type="reset"] {
+    color: rgb(253, 188, 68);
+}
+
+fieldset {
+    border-color: var(--color-fourth);
+}
+
+#table, th, td {
+    border-collapse: separate;
+    border: 1px solid #d3d3d3;
+    color: #6d6d6d;
+}
+
+td {
+    padding: 0.4rem 1rem;
+}
+
+th {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+tr {
+    text-align: center;
+}
+
+#table button {
+    outline-color: var(--color-second);
+}
