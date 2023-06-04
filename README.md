@@ -8,6 +8,8 @@ You must have listen this-
 
 **"Learn JavaScript before React."**
 
+So here are my projects.
+
 ## Table of contents
 
 - [Overview](#overview)
@@ -50,6 +52,7 @@ Here are some of the screenshots of projects
 | A5. | Basic Calculator      | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A5.%20Basic%20Calculator/calculator.html)    |
 | A6. | Login Form using LocalStorage and Tailwind      | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A6-Login-form-with-localStorage-Tailwind/src/index.html)    |
 | A7. | Login Form using SessionStorage, Validation and Tailwind      | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A7-Login-Form-SessionStorage-Validation-Tailwind/Reg.html)    |
+| A8. | CRUD Form using LocalStorage      | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A8.%20CRUD%20Form/crudForm.html)    |
 
 ## My process
 
@@ -60,6 +63,7 @@ Also to brush up my learnings.
 ### Built with
 
 - Semantic HTML5 markup
+
 - CSS custom properties
 - Vanilla JavaScript
 - Desktop-first workflow
@@ -70,17 +74,22 @@ Also to brush up my learnings.
 Many different concepts-
 
 - Basics
+
 - Ternary Operator
 - Array Methods
 - DOM manipulation (Not part of JS, still important)
 - Arrow Function
 - Template Literals
+- LocalStorage
+- SessionStorage
+- CRUD
 
 ### Continued development
 
 Projects based on these concepts-
 
 - Asynce/Await,
+
 - Higher order function,
 - Error Handling,
 - Map and filter
@@ -93,14 +102,15 @@ Projects based on these concepts-
 ### Useful resources
 
 - [freecodecamp](https://www.freecodecamp.org/) - All the problems I pracice. Helped me a lot. 🙌
+
 - [w3schools](https://www.w3schools.com) - This helped me throughout my journey. Still doing. 🙂
-- [YouTube video on DOM Manipulation](https://www.youtube.com/watch?v=5fb2aPlgoys)
 
 ## Author
 
 Basant Soni 👨‍💻
 
 - GitHub - [@SoniBasant](https://github.com/SoniBasant)
+
 - Frontend Mentor - [@SoniBasant](https://www.frontendmentor.io/profile/SoniBasant)
 - CodePen - [@SoniBasant](https://codepen.io/sonibasant)
 - Hashnode - [@SoniBasant](https://sonibasant.hashnode.dev/)
