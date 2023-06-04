@@ -30,14 +30,19 @@ To practice different concepts, I am making different projects. Depending on the
 
 Here are some of the screenshots of projects
 
+**Quote Generator :**
 ![Quote Generator](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A0.%20Quote%20Generator/Images/QG-Snap.png)
 
+**Modal Box :**
 ![Modal Box](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A1.%20Modal%20Box/Images/Modal-Snap-2.png)
 
+**Accordion FAQ :**
 ![Accordion FAQ](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A2.%20Accordion%20FAQ/Images/Accordion-Snap-2.png)
 
+**Stop Watch :**
 ![Stop Watch](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A3.%20Stop%20Watch/Images/Stop-Watch-Snap-2.png)
 
+**To Do List :**
 ![To Do List](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A4.%20To%20do%20list/Images/To-Do-List-Snap-2.png)
 
 ### Links
@@ -53,6 +58,7 @@ Here are some of the screenshots of projects
 | A6. | Login Form using LocalStorage and Tailwind      | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A6-Login-form-with-localStorage-Tailwind/src/index.html)    |
 | A7. | Login Form using SessionStorage, Validation and Tailwind      | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A7-Login-Form-SessionStorage-Validation-Tailwind/Reg.html)    |
 | A8. | CRUD Form using LocalStorage      | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A8.%20CRUD%20Form/crudForm.html)    |
+| A9. | Digital Counter App      | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A9.%20Digital%20Counter%20App/Counter.html)    |
 
 ## My process
 
