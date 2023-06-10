@@ -59,6 +59,7 @@ Here are some of the screenshots of projects
 | A7. | Login Form using SessionStorage, Validation and Tailwind      | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A7-Login-Form-SessionStorage-Validation-Tailwind/Reg.html)    |
 | A8. | CRUD Form using LocalStorage      | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A8.%20CRUD%20Form/crudForm.html)    |
 | A9. | Digital Counter App      | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A9.%20Digital%20Counter%20App/Counter.html)    |
+| B0. | Countdown Timer      | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/B0.%20Countdown-Timer/countDown.html)    |
 
 ## My process
 
