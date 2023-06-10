@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> <!--includes meta data, link of stylesheet, title of the project-->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Basant Soni">
+    <meta name="keywords" content="50 Projects in 50 Days, Udemy, Frontend, pure css, html, HTML5, Basant Soni, sonibasant, 
+    javascript, Vanilla javascript Projects, DOM, DOM manipulation, countDown timer, reverse time, alarm clock /">
+    <title>Countdown Timer</title>
+    <link rel="stylesheet" href="countDown.css">
+    <script defer src="countDown.js"></script>
+</head>
+<body>
+    <main>
+        <header id="heading">
+
+            <h1>Countdown Timer</h1>
+        </header>
+
+        <section id="inputTime">
+            <span>
+                <input type="number" value="00" name="minute" id="mins" min="0" max="59" onfocus="clearInput(this)">
+                <label for="minute">Min</label>
+            </span>
+
+            <span>
+                <input type="number" value="00" name="second" id="secs" min="0" max="60" onfocus="clearInput(this)">
+                <label for="second">Sec</label>
+            </span>
+        </section>
+
+        <section>
+            <p class="display-time"><span id="displayMin">00</span>:<span id="displaySec">00</span></p>
+        </section>
+
+        <section id="btns">
+            <button class="btn" type="submit" id="btn">Start Countdown</button>
+            <button class="btn" type="reset" id="resetBtn">Reset</button>
+        </section>
+    </main>
+
+</body>
+</html>
+
+
