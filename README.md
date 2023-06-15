@@ -13,7 +13,7 @@ So here are my projects.
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshots](#screenshots)
+  - [Snapshots](#snapshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -24,42 +24,55 @@ So here are my projects.
 
 ## Overview
 
-To practice different concepts, I am making different projects. Depending on the concepts, some projects are big, some projects are small but it's all about the concepts.
+This repository contains projects of different concepts. Not only Vanilla JavaScript but also lots of Vanilla CSS, Tailwind CSS and HTML. Many APIs, many interesting concepts. You will see all.
 
-### Screenshots
+### Snapshots
 
 Here are some of the screenshots of projects
 
-**Quote Generator :**
+**A0. Quote Generator**
+
 ![Quote Generator](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A0.%20Quote%20Generator/Images/QG-Snap.png)
 
-**Modal Box :**
+---
+
+**A1. Modal Box**
+
 ![Modal Box](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A1.%20Modal%20Box/Images/Modal-Snap-2.png)
 
-**Accordion FAQ :**
+---
+
+**A2. Accordion FAQ**
+
 ![Accordion FAQ](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A2.%20Accordion%20FAQ/Images/Accordion-Snap-2.png)
 
-**Stop Watch :**
+---
+
+**A3. Stop Watch**
+
 ![Stop Watch](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A3.%20Stop%20Watch/Images/Stop-Watch-Snap-2.png)
 
-**To Do List :**
+---
+
+**A4. To Do List**
+
 ![To Do List](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A4.%20To%20do%20list/Images/To-Do-List-Snap-2.png)
 
 ### Links
 
-| No. | Project Name    | Live Link                                                                                              |
-| --: | --------------- | ------------------------------------------------------------------------------------------------------ |
-| A0. | Quote Generator | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A0.%20Quote%20Generator/quoteGen.html) |
-| A1. | Modal Box       | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A1.%20Modal%20Box/modalBox.html)       |
-| A2. | Accordion FAQ   | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A2.%20Accordion%20FAQ/accordion.html)  |
-| A3. | Stop Watch      | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A3.%20Stop%20Watch/stopWatch.html)     |
-| A4. | To Do List      | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A4.%20To%20do%20list/toDoList.html)    |
-| A5. | Basic Calculator      | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A5.%20Basic%20Calculator/calculator.html)    |
-| A6. | Login Form using LocalStorage and Tailwind      | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A6-Login-form-with-localStorage-Tailwind/src/index.html)    |
-| A7. | Login Form using SessionStorage, Validation and Tailwind      | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A7-Login-Form-SessionStorage-Validation-Tailwind/Reg.html)    |
-| A8. | CRUD Form using LocalStorage      | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A8.%20CRUD%20Form/crudForm.html)    |
-| A9. | Digital Counter App      | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A9.%20Digital%20Counter%20App/Counter.html)    |
-| B0. | Countdown Timer      | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/B0.%20Countdown-Timer/countDown.html)    |
+| No. | Project Name                                                 | Source Code                                                                                                                  | Live Link                                                                                                                  |
+| --: | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| A0. | Quote Generator                                              | [Code](https://github.com/SoniBasant/Vanilla-JavaScript-Projects/tree/main/A0.%20Quote%20Generator)                          | [Live](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A0.%20Quote%20Generator/quoteGen.html)                     |
+| A1. | Modal Box                                                    | [Code](https://github.com/SoniBasant/Vanilla-JavaScript-Projects/tree/main/A1.%20Modal%20Box)                                | [Live](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A1.%20Modal%20Box/modalBox.html)                           |
+| A2. | Accordion FAQ                                                | [Code](https://github.com/SoniBasant/Vanilla-JavaScript-Projects/tree/main/A2.%20Accordion%20FAQ)                            | [Live](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A2.%20Accordion%20FAQ/accordion.html)                      |
+| A3. | Stop Watch                                                   | [Code](https://github.com/SoniBasant/Vanilla-JavaScript-Projects/tree/main/A3.%20Stop%20Watch)                               | [Live](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A3.%20Stop%20Watch/stopWatch.html)                         |
+| A4. | To Do List                                                   | [Code](https://github.com/SoniBasant/Vanilla-JavaScript-Projects/tree/main/A4.%20To%20do%20list)                             | [Live](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A4.%20To%20do%20list/toDoList.html)                        |
+| A5. | Basic Calculator                                             | [Code](https://github.com/SoniBasant/Vanilla-JavaScript-Projects/tree/main/A5.%20Basic%20Calculator)                         | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A5.%20Basic%20Calculator/calculator.html)                  |
+| A6. | Login Form using LocalStorage and Tailwind CSS               | [Code](https://github.com/SoniBasant/Vanilla-JavaScript-Projects/tree/main/A6-Login-form-with-localStorage-Tailwind)         | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A6-Login-form-with-localStorage-Tailwind/src/index.html)   |
+| A7. | Login Form using SessionStorage, Validation and Tailwind CSS | [Code](https://github.com/SoniBasant/Vanilla-JavaScript-Projects/tree/main/A7-Login-Form-SessionStorage-Validation-Tailwind) | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A7-Login-Form-SessionStorage-Validation-Tailwind/Reg.html) |
+| A8. | CRUD Form using LocalStorage                                 | [Code](https://github.com/SoniBasant/Vanilla-JavaScript-Projects/tree/main/A8.%20CRUD%20Form)                                | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A8.%20CRUD%20Form/crudForm.html)                           |
+| A9. | Digital Counter App                                          | [Code](https://github.com/SoniBasant/Vanilla-JavaScript-Projects/tree/main/A9.%20Digital%20Counter%20App)                    | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A9.%20Digital%20Counter%20App/Counter.html)                |
+| B0. | Countdown Timer                                              | [Code](https://github.com/SoniBasant/Vanilla-JavaScript-Projects/tree/main/B0.%20Countdown-Timer)                            | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/B0.%20Countdown-Timer/countDown.html)                      |
 
 ## My process
 
@@ -71,6 +84,7 @@ Also to brush up my learnings.
 
 - Semantic HTML5 markup
 
+- Tailwind CSS
 - CSS custom properties
 - Vanilla JavaScript
 - Desktop-first workflow
@@ -84,7 +98,7 @@ Many different concepts-
 
 - Ternary Operator
 - Array Methods
-- DOM manipulation (Not part of JS, still important)
+- DOM manipulation
 - Arrow Function
 - Template Literals
 - LocalStorage
@@ -106,11 +120,16 @@ Projects based on these concepts-
 - ES-6 classes
 - Import/Export
 
+Need to work on UI/UX and background design.
+
+Suggest any project you think I should make. Your suggestions are welcome. 🙌
+
 ### Useful resources
 
 - [freecodecamp](https://www.freecodecamp.org/) - All the problems I pracice. Helped me a lot. 🙌
 
 - [w3schools](https://www.w3schools.com) - This helped me throughout my journey. Still doing. 🙂
+- [Tailwind Docs](https://tailwindcss.com/) - Tailwind CSS Docs for utility classes
 
 ## Author
 
