@@ -9,7 +9,7 @@ This is a solution to one of the basic project, **Calculator**. Having it in lis
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+  - [Concepts Used](#concepts-used)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
@@ -80,7 +80,7 @@ Need to optimize the code.
 
 We should be able to input values also from the keyboard.
 
-As for more than one operation, there will be a new calculator.
+As for more than one operations, there will be a new calculator.
 
 Your suggestions are welcome. 🙌
 
@@ -91,7 +91,9 @@ Your suggestions are welcome. 🙌
 - [Udemy](https://www.udemy.com/course/50-projects-50-days/) - On DOM part 🤝
 - [freecodecamp](https://www.freecodecamp.org/) - All the problems I solved. Helped me a lot. 🙌
 
-## Author 👨‍💻
+## Author
+
+Basant Soni 👨‍💻
 
 - GitHub - [@SoniBasant](https://github.com/SoniBasant)
 
