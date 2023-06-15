@@ -9,11 +9,10 @@
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+  - [Concepts Used](#concepts-used)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -33,13 +32,14 @@ Here, first you need to enter either `username` or `email ID`. Then your `passwo
 
 ![Login Local](Images/Login-local-snap-2.png)
 
-**Create Account Page : After entering data**
+**Login Account Page : After entering data**
 
 ![Login Local](Images/Login-local-snap-3.png)
 
 ### Links
 
 - Solution URL: [Source Code](https://github.com/SoniBasant/Vanilla-JavaScript-Projects/tree/main/A6-Login-form-with-localStorage-Tailwind)
+
 - Live Site URL: [Live Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A6-Login-form-with-localStorage-Tailwind/src/index.html)
 
 ## My process
@@ -82,14 +82,12 @@ Your suggestions are welcome. 🙌
 - [Udemy](https://www.udemy.com/course/50-projects-50-days/) - On DOM part 🤝
 - [freecodecamp](https://www.freecodecamp.org/) - All the problems I solved. Helped me a lot. 🙌
 
-## Author 👨‍💻
+## Author
+
+Basant Soni 👨‍💻
 
 - GitHub - [@SoniBasant](https://github.com/SoniBasant)
 
 - Frontend Mentor - [@SoniBasant](https://www.frontendmentor.io/profile/SoniBasant)
 - CodePen - [@SoniBasant](https://codepen.io/sonibasant)
 - Hashnode - [@SoniBasant](https://sonibasant.hashnode.dev/)
-
-## Acknowledgments
-
-As for the styling and color selection of calculator, I take it from an article/video from _freecodecamp_.
