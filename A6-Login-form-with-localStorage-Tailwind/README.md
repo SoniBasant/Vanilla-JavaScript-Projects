@@ -22,6 +22,8 @@ Also, a new page, **Login Here**, will open.
 
 Here, first you need to enter either `username` or `email ID`. Then your `password`. An **alert** message will inform that your entries are correct or not.
 
+**Local Storage:** Local storage can save your data, until you delete it or replace with other data. Data will NOT be deleted when you close browser. So you can access your saved data. It is helpful when security is not the concern.
+
 ### Snapshots
 
 **Create Account Page :**
@@ -60,6 +62,7 @@ Here, first you need to enter either `username` or `email ID`. Then your `passwo
 - addEventListener() > click
 - .value
 - if...else
+- alert()
 - Many Tailwind classes > bg-gradient, rounded-md etc.
 
 Some **important** concepts -
@@ -81,6 +84,7 @@ Your suggestions are welcome. 🙌
 
 - [Udemy](https://www.udemy.com/course/50-projects-50-days/) - On DOM part 🤝
 - [freecodecamp](https://www.freecodecamp.org/) - All the problems I solved. Helped me a lot. 🙌
+- [Tailwind docs](https://tailwindcss.com/) - For Tailwind Utility Classes
 
 ## Author
 
