@@ -22,6 +22,78 @@ body {
   background-color: aliceblue;
 }
 
+.digit {
+  font-size: 3rem;
+  position: absolute;
+  z-index: -1;
+}
+
+.one {
+  right: 3%;
+  bottom: 3%;
+  color: rgba(255, 0, 0, 0.2);
+}
+
+.two {
+  left: 13%;
+  bottom: 65%;
+  color: rgba(255, 255, 0, 0.3);
+  transform: rotate(6deg);
+}
+
+.three {
+  left: 43%;
+  top: 3%;
+  color: rgba(30, 255, 0, 0.2);
+}
+
+.four {
+  right: 28%;
+  bottom: 43%;
+  color: rgba(0, 242, 255, 0.2);
+  
+}
+
+.five {
+  left: 17%;
+  bottom: 16%;
+  color: rgba(0, 102, 255, 0.2);
+  transform: rotate(-20deg);
+}
+
+.six {
+  right: 43%;
+  top: 20%;
+  color: rgba(111, 0, 255, 0.1);
+}
+
+.seven {
+  right: 6%;
+  bottom: 33%;
+  color: rgba(255, 0, 221, 0.2);
+  
+}
+
+.eight {
+  left: 3%;
+  top: 3%;
+  color: rgba(255, 0, 30, 0.2);
+}
+
+.nine {
+  right: 8%;
+  top: 12%;
+  color: rgba(153, 255, 0, 0.2);
+  transform: rotateZ(30deg);
+}
+
+.zero {
+  right: 43%;
+  bottom: 3%;
+  color: rgba(0, 255, 89, 0.2);
+  transform: rotate(-50deg);
+}
+
 h2 {
   color: #00bb00;
 }
