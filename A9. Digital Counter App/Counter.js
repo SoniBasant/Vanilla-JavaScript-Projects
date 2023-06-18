@@ -10,16 +10,14 @@ function subtraction() {
         result = 0;
     }
     output.innerText = result;
-    console.log(result);
 }
 
 function addition() {
     let result = Number(output.innerText) + 1;
-    if (result > 10) {
+    if (result > 9) {
         result = 0;
     }
     output.innerText = result;
-    console.log(result);
 }
 
 // events
