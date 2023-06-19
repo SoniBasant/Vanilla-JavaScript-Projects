@@ -12,11 +12,11 @@
     <script defer src="countDown.js"></script>
 </head>
 <body>
-    <main>
-        <header id="heading">
+    <header id="heading">
 
-            <h1>Countdown Timer</h1>
-        </header>
+        <h1 id="text">Countdown Timer</h1>
+    </header>
+    <main id="border">
 
         <section id="inputTime">
             <span>
@@ -34,10 +34,11 @@
             <p class="display-time"><span id="displayMin">00</span>:<span id="displaySec">00</span></p>
         </section>
 
-        <section id="btns">
+        <footer id="btns">
             <button class="btn" type="submit" id="btn">Start Countdown</button>
             <button class="btn" type="reset" id="resetBtn">Reset</button>
-        </section>
+        </footer>
+        
     </main>
 
 </body>
