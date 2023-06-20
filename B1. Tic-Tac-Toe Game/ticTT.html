@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> <!--includes meta data, link of stylesheet, title of the project-->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Basant Soni">
+    <meta name="keywords" content="50 Projects in 50 Days, Udemy, Frontend, pure css, html, HTML5, Basant Soni, sonibasant, 
+    javascript, Vanilla javascript Projects, DOM, DOM manipulation, tic tac toe, game, cross and circle, board game, shapes /">
+    <title>Tic Tac Toe</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="ticTT.css">
+    <script defer src="ticTT.js"></script> <!--JS link-->
+</head>
+<body>
+    <div class="shapes">
+        <span class="triangle"></span>
+        <span class="circle"></span>
+        <span class="square"></span>
+    </div>
+    <h1><span>Tic</span> <span>Tac</span> <span>Toe</span></h1>
+
+    <main>
+        
+        <section id="full-box">
+
+            <div class="box-row">
+                <div data-value="1" class="box"></div>
+                <div data-value="2" class="box"></div>
+                <div data-value="3" class="box"></div>
+            </div>
+    
+            <div class="box-row">
+                <div data-value="4" class="box"></div>
+                <div data-value="5" class="box"></div>
+                <div data-value="6" class="box"></div>
+            </div>
+    
+            <div class="box-row">
+                <div data-value="7" class="box"></div>
+                <div data-value="8" class="box"></div>
+                <div data-value="9" class="box"></div>
+            </div>
+        </section>
+
+        <button id="resetBtn" type="reset">Reset</button>
+
+        <div id="message">Result will display here</div>
+    </main>
+
+    
+</body>
+</html>
+
+
