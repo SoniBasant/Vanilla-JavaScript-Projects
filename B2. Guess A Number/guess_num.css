@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+/* general style */
+:root {
+    --color-body: #f0f0f5;
+    --color-header: #2a2aca;
+    --color-font: #5e5e75;
+    --color-light-white: #fafafa;
+}
+
+html {
+    user-select: none;
+}
+
+body {
+    overflow: none;
+    min-height: 100vh;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: var(--color-body);
+    color: var(--color-font);
+    font-family: 'Roboto', sans-serif;
+}
+
+/* heading */
+header h1 {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    color: var(--color-header);
+}
+
+/* main */
+form {
+    background-color: var(--color-light-white);
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+label {
+    padding-right: 0.3rem;
+}
+
+#inputNum {
+    padding: 0.2rem;
+    padding-left: 0.3rem;
+    color: #4d4d4d;
+}
+
+#inputNum::-webkit-outer-spin-button,
+#inputNum::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
+
+#inputNum:focus {
+    outline-color: #6464c6;
+}
+
+#inputNum::placeholder {
+    color: #9d9d9d;
+}
+
+#inputBtn {
+    background-color: var(--color-header);
+    border: none;
+    padding: 0.3rem 0.5rem;
+    border-radius: 5px;
+    color: var(--color-light-white);
+    cursor: pointer;
+}
+
+/* reset button, from JS */
+#reset {
+    color: var(--color-light-white);
+    border: none;
+    background-color: rgb(5, 130, 89);
+    padding: 0.3rem 0.5rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* footer */
+footer {
+    position: absolute;
+    bottom: 5%;
+}
+
+/* counter, from JS */
+footer span {
+    color: var(--color-header);
+    font-weight: bold;
+}
+
+/* page flexibility on screen size */
+@media screen and (max-width:500px) {
+    header h1 {
+        position: absolute;
+        top: 5%;
+        left: 50%;
+        transform: translateX(-50%);
+        font-size: 1.3rem;
+    }
+
+    form {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    label {
+        text-align: center;
+        padding-bottom: 0.3rem;
+        font-size: 0.7rem;
+    }
+
+    #inputNum {
+        margin-bottom: 1rem;
+    }
+
+    #msg {
+        font-size: 0.9rem;
+        text-align: center;
+    }
+
+    #countLine {
+        font-size: 0.8rem;
+    }
+}
