@@ -74,6 +74,7 @@ Here are some of the screenshots of projects
 | A9. | Digital Counter App                                          | [Code](https://github.com/SoniBasant/Vanilla-JavaScript-Projects/tree/main/A9.%20Digital%20Counter%20App)                    | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A9.%20Digital%20Counter%20App/Counter.html)                |
 | B0. | Countdown Timer                                              | [Code](https://github.com/SoniBasant/Vanilla-JavaScript-Projects/tree/main/B0.%20Countdown-Timer)                            | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/B0.%20Countdown-Timer/countDown.html)                      |
 | B1. | Tic-Tac-Toe Game                                             | [Code](https://github.com/SoniBasant/Vanilla-JavaScript-Projects/tree/main/B1.%20Tic-Tac-Toe%20Game)                         | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/B1.%20Tic-Tac-Toe%20Game/ticTT.html)                       |
+| B2. | Guess A Number                                               | [Code](https://github.com/SoniBasant/Vanilla-JavaScript-Projects/tree/main/B2.%20Guess%20A%20Number)                         | [Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/B2.%20Guess%20A%20Number/guess_num.html)                   |
 
 ## My process
 
