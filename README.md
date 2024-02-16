@@ -30,33 +30,43 @@ This repository contains projects of different concepts. Not only Vanilla JavaSc
 
 Here are some of the screenshots of projects
 
-**A0. Quote Generator**
+**A7. Login Form** - Using SessionStorage, Validaion and Tailwind CSS
 
-![Quote Generator](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A0.%20Quote%20Generator/Images/QG-Snap.png)
+- Solution URL: [Source Code](https://github.com/SoniBasant/Vanilla-JavaScript-Projects/tree/main/A7-Login-Form-SessionStorage-Validation-Tailwind)
 
----
+- Live Site URL: [Live Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A7-Login-Form-SessionStorage-Validation-Tailwind/Reg.html)
 
-**A1. Modal Box**
-
-![Modal Box](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A1.%20Modal%20Box/Images/Modal-Snap-2.png)
+![Login Form](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A7-Login-Form-SessionStorage-Validation-Tailwind/Images/Session-snap-1.png)
 
 ---
 
-**A2. Accordion FAQ**
+**A8. CRUD Form** - Using LocalStorage
 
-![Accordion FAQ](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A2.%20Accordion%20FAQ/Images/Accordion-Snap-2.png)
+- Solution URL: [Source Code](https://github.com/SoniBasant/Vanilla-JavaScript-Projects/tree/main/A8.%20CRUD%20Form)
 
----
+- Live Site URL: [Live Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A8.%20CRUD%20Form/crudForm.html)
 
-**A3. Stop Watch**
-
-![Stop Watch](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A3.%20Stop%20Watch/Images/Stop-Watch-Snap-2.png)
+![CRUD Form](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A8.%20CRUD%20Form/Images/CRUD-form-snap-3.png)
 
 ---
 
-**A4. To Do List**
+**B0. Countdown Timer**
 
-![To Do List](https://sonibasant.github.io/Vanilla-JavaScript-Projects/A4.%20To%20do%20list/Images/To-Do-List-Snap-2.png)
+- Solution URL: [Source Code](https://github.com/SoniBasant/Vanilla-JavaScript-Projects/tree/main/B0.%20Countdown-Timer)
+
+- Live Site URL: [Live Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/B0.%20Countdown-Timer/countDown.html)
+
+![Countdown Timer](https://sonibasant.github.io/Vanilla-JavaScript-Projects/B0.%20Countdown-Timer/Images/Countdown-timer-snap-2.png)
+
+---
+
+**B1. Tic-Tac-Toe Game**
+
+- Solution URL: [Source Code](https://github.com/SoniBasant/Vanilla-JavaScript-Projects/tree/main/B1.%20Tic-Tac-Toe%20Game)
+
+- Live Site URL: [Live Link](https://sonibasant.github.io/Vanilla-JavaScript-Projects/B1.%20Tic-Tac-Toe%20Game/ticTT.html)
+
+![Tic Tac Toe](https://sonibasant.github.io/Vanilla-JavaScript-Projects/B1.%20Tic-Tac-Toe%20Game/Images/Tic-tac-toe-snap-3.png)
 
 ### Links
 
